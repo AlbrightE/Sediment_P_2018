@@ -1,0 +1,26 @@
+Variable Name,Description,Units,Notes
+SITEALL,Site identifier,NA,
+Depth_ft,"Water depth at which the macrophyte rake pull was taken
+Measured with the macrophyte rake (markings every 0.5 feet)",Feet,
+Substrate,"Estimate of substrate hardness, based on feeling with rake
+M=muck, S=sand, R=rock
+Categories - rock, sand, muck",NA,Categorical
+Rake_Total,"Qualitative assessment of biomass on the rake pull (DNR procedure)
+0=no plants, 1=a couple plants, 2=most of the rake covered 
+in plants but tines still visible, 3=cannot see rake tines under mass of plants ***NOTE there can still be plants at a site marked with a 0 on the rake - these will be visuals, usually of emergent species",NA,Categorical
+TOTAL,"Assessment of bed density for mapping purposes - combines visuals with rake samples. 
+We scored bed density on a scale of 0-3 based on whether the site yielded no plants on the sampling rake or in sight of the boat (score of 0), 
+a few plants on the rake or visible within 2 m of the boat (score of 1), enough plants to fill the rake but leave the tines visible (score of 2), 
+or enough plants to completely fill the rake leaving no part of the metal rake head visible (score of 3).",NA,Categorical
+Richness,Total number of macrophyte species encountered at site - either on rake pull or visually ,Count,Continuous
+Emergent_Richness,Total number of macrophyte species in emergent growth form,Count,Continuous
+Submersed_Richness,Total number of macrophyte species in submersed growth form,Count,Continuous
+Floating_Richness,Total number of macrophyte species in floating-leaf growth form,Count,Continuous
+Lemna_spp,Presence (1) or absence (0) of any duckweed species (Lemna spp.),Presence/Absence,Categorical
+Nelumbo_lutea,Presence (1) or absence (0) of American lotus (Nelumbo lutea),Presence/Absence,Categorical
+Stuckenia_pectinata,Presence (1) or absence (0) of sago pondweed (Stuckenia pectinata),Presence/Absence,Categorical
+Potamogeton foliosus,Presence (1) or absence (0) of leafy pondweed (Potamogeton foliosus),Presence/Absence,Categorical
+Typha_angustifolia,Presence (1) or absence (0) of narrowleaf cattail (Typha angustifolia),Presence/Absence,Categorical
+Equisetum_hyemale,Presence (1) or absence (0) of scouring-rush horsetail (Equisetum hyemale),Presence/Absence,Categorical
+LATUSE,Sampling site coordinates - Latitude,Decimal degrees,Continuous
+LONGUSE,Sampling site coordinates - Longitude,Decimal degrees,Continuous

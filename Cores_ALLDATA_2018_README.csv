@@ -1,0 +1,20 @@
+Variable Name,Description,Units,Notes,
+LakeName,Full name of study lake,NA,Categorial,Raw
+SiteID,"Site 1 indicates core at historic deep site, letters A-G indicate slice intervals
+Sites 2-10 indicate more shallow cores, all sliced 0-10 cm",NA,Categorial,Raw
+LakeID,Letter code for each lake,NA,Categorial,Raw
+SampleID,Lake ID code and Site ID codes - combined into one for joining tables later,NA,Categorial,Raw
+SiteType,Deep site vs. littoral sites - for subsetting later,NA,Categorial,Raw
+WaterDepth,Water depth at site where core was taken; measured with metered line,m,Continuous,Raw
+TopDepth,Depth in core profile at the TOP of the interval slice. E.g. 5=slice starts 5cm deep in sediments,cm,Categorial,Raw
+BottomDepth,Depth in core profile at the BOTTOM of the interval slice. E.g. 10=slice ends 10cm deep in sediments,cm,Categorial,Raw
+Mcfrac,Sediment moisture content (% but presented as proportion),%,Continuous,"Calculated in ""Cores_2018_Calc_Cleaning.R"""
+OM,LOI organic matter content,%,Continuous,"Calculated in ""Cores_2018_Calc_Cleaning.R"""
+bd,Sediment bulk density,g/cm3,Continuous,"Calculated in ""Cores_2018_Calc_Cleaning.R"""
+DryMassEq,"Dry mass equivalent of fresh sediment used for sequential P extraction, based on MC",g,Continuous,"Calculated in ""Cores_2018_Calc_Cleaning.R"""
+LooseP,Concentration of loosely-bound P in sediment sample (includes porewater and surface sorbed P),ug P / g dry sediment,Continuous,"Calculated in ""Cores_2018_Calc_Cleaning.R"""
+IronP,Concentration of redox-sensitive P in sediment samples (includes Fe- and Mn-bound P),ug P / g dry sediment,Continuous,"Calculated in ""Cores_2018_Calc_Cleaning.R"""
+AlP,Concentration of aluminum-bound P (includes P bound to Al- and non-reducible Fe-oxides),ug P / g dry sediment,Continuous,"Calculated in ""Cores_2018_Calc_Cleaning.R"""
+LabileOP,Concentration of labile organic P in sediment sample,ug P / g dry sediment,Continuous,"Calculated in ""Cores_2018_Calc_Cleaning.R"""
+CalciumP,Concentration of calcium-bound P ,ug P / g dry sediment,Continuous,"Calculated in ""Cores_2018_Calc_Cleaning.R"""
+TP_ug,Concentration of total sediment P ,ug P / g dry sediment,Continuous,"Calculated in ""Cores_2018_Calc_Cleaning.R"""

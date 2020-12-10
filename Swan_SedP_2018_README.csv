@@ -1,0 +1,24 @@
+Variable Name,Description,Units,Notes
+LakeName,Lake name (Swan),NA,Categorical
+SiteID,Identifier of sediment coring location in lake,NA,Categorical
+LakeID,Abbreviated identifier of lake name (SW),NA,Categorical
+LAT,Sampling site coordinates - Latitude,Decimal degrees,Continuous
+LONG,Sampling site coordinates - Longitude,Decimal degrees,Continuous
+WaterDepth,Water depth at the sampling site; measured with metered line,m,Continuous
+LooseP,"The concentration of loosely-bound phosphorus
+Values for site 1 (deep site) are an average of 7 core interval slices",ug P/g dry sediment,Continuous
+TP_ug,"The concentration of total sediment phosphorus
+Values for site 1 (deep site) are an average of 7 core interval slices",ug P/g dry sediment,Continuous
+LoosePER,The percent contribution of loosely-bound P to the sediment P pool (loosely-bound P/total P*100),%,Continuous
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,

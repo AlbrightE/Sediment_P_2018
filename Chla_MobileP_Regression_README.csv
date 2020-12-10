@@ -1,0 +1,15 @@
+Variable Name,Description,Units,Notes,Notes
+lakename,Full name of study lake,NA,Categorial,Raw
+totalPsed,"Concentration of total sediment P, average value over the interval slices of the deep site core",ug P / g dry sediment,Continuous,"Calculated in ""Cores_2018_Calc_Cleaning.R"""
+redoxPercent,The percent contribution of redox-sensitive P species to the profundal sediment P pool. Redox-sensitive P concentration/total sediment P concentration *100. Average value for interval slices of the deep site core!!,%,Continuous,"Calculated in ""Cores_2018_Calc_Cleaning.R"""
+organicPercent,The percent contribution of total organic P species to the profundal sediment P pool. Total organic P concentration/total sediment P concentration *100. Average value for interval slices of the deep site core!!,%,Continuous,"Calculated in ""Cores_2018_Calc_Cleaning.R"""
+looselyPercent,The percent contribution of loosely-bound P species to the profundal sediment P pool. Loosely-bound P concentration/total sediment P concentration *100. Average value for interval slices of the deep site core!!,%,Continuous,"Calculated in ""Cores_2018_Calc_Cleaning.R"""
+aluminumPercent,The percent contribution of aluminum-bound P species to the profundal sediment P pool. Aluminum-bound P concentration/total sediment P concentration *100. Average value for interval slices of the deep site core!!,%,Continuous,"Calculated in ""Cores_2018_Calc_Cleaning.R"""
+calciumPercent,The percent contribution of calcium-bound P species to the profundal sediment P pool. Calcium-bound P concentration/total sediment P concentration *100. Average value for interval slices of the deep site core!!,%,Continuous,"Calculated in ""Cores_2018_Calc_Cleaning.R"""
+chlorophyll,"The long-term mean chlorophyll a concentration for the ice-free season. 20-year mean (2000-2019) for all lakes except South Twin, which is a 14-year mean (2006-2019)",mg/L,Continuous,Calculated from raw Chlorophyll concentrations - from Iowa DNR AQUIA database
+chlorophyllSD,The standard deviation of long-term chlorophyll a concentrations for the ice-free season. Based on same time periods as mean chlorophyll calculation,mg/L,Continuous,Calculated from raw Chlorophyll concentrations
+chlorophyllN,Number of chlorophyll a observations represented in mean and sd calculations,count,Continuous,Calculated from raw Chlorophyll concentrations
+mobilePercent,"The percent contribution of mobile P species (defined as redox-sensitive, loosely-bound, total organic P)
+Average value for interval slices of the deep site core",%,Continuous,"Calculated in ""Cores_2018_Calc_Cleaning.R"""
+mobileSD,"The standard deviation of the percent contribution of mobile P species, over the interval slices of the deep site core",%,Continuous,"Calculated in ""Cores_2018_Calc_Cleaning.R"""
+mobileN,The number of observations (core slices) represented in the mobilePercent mean and mobileSD values,count,Continuous,"Calculated in ""Cores_2018_Calc_Cleaning.R"""
