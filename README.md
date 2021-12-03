@@ -7,7 +7,7 @@ All scripts for calculations, analyses, and figures for manuscript "High Inter- 
 3. Cores_TP_EXAMPLE.csv (meta-data: Cores_TP_EX_README)
 
    
-**Cores_2018_Analysis_Figures_RESUBMIT.R** - details all of our analyses and figures (included as png files as well). Updated for new analyses in manuscript resubmission. Original analyses in Cores_2018_Analysis_Figures.R
+**Cores_2018_Analysis_Figures_RESUBMIT.R** - details all of our analyses and figures (included as png files as well). Updated for new analyses in manuscript resubmission. Original analyses in (Cores_2018_Analysis_Figures.R)
 Can be used with the following datasets:
 1. Cores_ALLDATA_2018.csv* (meta-data: Cores_ALLDATA_2018_README)
 2. Chla_MobileP_Regression.csv* (meta-data: Chla_MobileP_Regression_README)
