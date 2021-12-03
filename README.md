@@ -10,10 +10,11 @@ All scripts for calculations, analyses, and figures for manuscript "High Inter- 
 **Cores_2018_Analysis_Figures** - details all of our analyses and figures (included as png files as well).
 Can be used with the following datasets:
 1. Cores_ALLDATA_2018.csv* (meta-data: Cores_ALLDATA_2018_README)
-2. Cores_DepthAgeRelationship.csv (meta-data: Cores_DepthAgeRelationship_README)
-3. Chla_MobileP_Regression.csv* (meta-data: Chla_MobileP_Regression_README)
+2. Chla_MobileP_Regression.csv* (meta-data: Chla_MobileP_Regression_README)
+3. PCA_envfit.csv* (meta-data: PCA_envfit_README)
 4. Swan_macrophytes_2018.csv* (meta-data: Swan_macrophytes_2018_README)
 5. Swan_SedP_2018.csv* (meta-data: Swan_SedP_2018_README)
-6. Dv_Analysis.csv (meta-data: Dv_Analysis_README)
+6. Rarefaction_RMSE.csv* (meta-data: Rarefaction_RMSE_README)
+7. Dv_Analysis.csv (meta-data: Dv_Analysis_README)
  
  *** Data can be cited and found at: Albright, Ellen; Wilkinson, Grace; Fleck, Rachel; Shingai, Quin (2020): Analysis of Sediment Phosphorus Pools in Shallow Lakes. figshare. Dataset. https://doi.org/10.6084/m9.figshare.13362971.v1 
