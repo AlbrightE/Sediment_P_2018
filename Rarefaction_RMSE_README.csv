@@ -1,0 +1,8 @@
+Variable,Description,Units,Type,Notes
+lake,Full lake name,NA,Categorical,
+type,"Type of sample in the rarefaction analysis. ""Full"" includes all 10 sampling points. ""Subsample"" is 2-9 sites.",NA,Categorical,
+n,Number of sampling sites included in the rarefaction sub-sampling run (range 2-9),NA,Categorical,
+mean_TP_whole,Mean sediment total P concentration for the whole-lake (all 10 sampling sites),ug/g dry sediment,Continuous,"Calculated in ""Cores_2018_Aalysis_Figures_RESUBMISSION.R"""
+mean_RMSE_TP,Average root mean square error for sediment total phosphorus over 1000 sub-sampling iterations,ug/g dry sediment,Continuous,"Calculated in ""Cores_2018_Aalysis_Figures_RESUBMISSION.R"""
+mean_loose_whole,Mean sediment loosely-bound P concentration for the whole-lake (all 10 sampling sites),ug/g dry sediment,Continuous,"Calculated in ""Cores_2018_Aalysis_Figures_RESUBMISSION.R"""
+mean_RMSE_loose,Average root mean square error for sediment loosely-bound phosphorus over 1000 sub-sampling iterations,ug/g dry sediment,Continuous,"Calculated in ""Cores_2018_Aalysis_Figures_RESUBMISSION.R"""

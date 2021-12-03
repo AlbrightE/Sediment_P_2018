@@ -1,0 +1,22 @@
+Variable Name,Description,Units,Notes,
+LakeName,Full name of study lake,NA,Categorial,Raw
+LakeID,Letter code for each lake,NA,Categorial,Raw
+SampleID,Lake ID code and Site ID codes - combined into one for joining tables later,NA,Categorial,Raw
+LooseP,Concentration of loosely-bound P in sediment sample (includes porewater and surface sorbed P),ug P / g dry sediment,Continuous,"Calculated in ""Cores_2018_Calc_Cleaning.R"""
+IronP,Concentration of redox-sensitive P in sediment samples (includes Fe- and Mn-bound P),ug P / g dry sediment,Continuous,"Calculated in ""Cores_2018_Calc_Cleaning.R"""
+AlP,Concentration of aluminum-bound P (includes P bound to Al- and non-reducible Fe-oxides),ug P / g dry sediment,Continuous,"Calculated in ""Cores_2018_Calc_Cleaning.R"""
+CalciumP,Concentration of calcium-bound P ,ug P / g dry sediment,Continuous,"Calculated in ""Cores_2018_Calc_Cleaning.R"""
+OrganicP,Concentration of total organic P ,ug P / g dry sediment,Continuous,"Calculated in ""Cores_2018_Analysis_Figures.R"""
+TP_ug,Concentration of total sediment P ,ug P / g dry sediment,Continuous,"Calculated in ""Cores_2018_Calc_Cleaning.R"""
+max_depth,Maximum water depth of lake,m,Continuous,"Raw, IDNR "
+mean_depth,Mean water depth of lake,m,Continuous,"Raw, IDNR "
+DV,Lake volume development,ratio,Continuous,"Calculated in ""Cores_2018_Analysis_Figures.R"""
+chla,"The long-term mean chlorophyll a concentration for the ice-free season. 20-year mean (2000-2019) for all lakes except South Twin, which is a 14-year mean (2006-2019)",mg/L,Continuous,Calculated from raw Chlorophyll concentrations - from Iowa DNR AQUIA database
+watershed_ratio,Ratio of the watershed area to the lake surface area,ratio,Continuous,"Raw, IDNR "
+OM,LOI organic matter content,%,Continuous,"Calculated in ""Cores_2018_Calc_Cleaning.R"""
+bd,Sediment bulk density,g/cm3,Continuous,"Calculated in ""Cores_2018_Calc_Cleaning.R"""
+crop,Percent of watershed with row crop land cover,%,Continuous,"Raw, IDNR "
+grass,Percent of watershed with grassland land cover,%,Continuous,"Raw, IDNR "
+water,Percent of watershed with open water cover,%,Continuous,"Raw, IDNR "
+forest,Percent of watershed with forest land cover,%,Continuous,"Raw, IDNR "
+urban,Percent of watershed with urban land cover,%,Continuous,"Raw, IDNR "
