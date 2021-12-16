@@ -664,7 +664,7 @@ tp_rare<-ggplot(data=rare_sample, aes(x=n, y=RMSE_norm_TP,group=lake,color=lake)
   theme(legend.title=element_blank(), legend.position = c(0.7,0.7),legend.text = element_text(size=9),legend.key.size=unit(0.5,"cm"),legend.background=element_blank())
 
 loose_rare<-ggplot(data=rare_sample, aes(x=n, y=RMSE_norm_loose,group=lake,color=lake))+
-  geom_point(size=0)+scale_color_manual(values=c(CEcol,FIcol,NTcol,SIcol,SOcol,STcol,SWcol))+
+  geom_point(size=0)+scale_color_manual(values=c(CEcol,FIcol,NTcol,SIcol,STcol,SOcol,SWcol))+
   geom_line(size=1.2)+
   theme_linedraw()+theme(panel.grid.major=element_blank(),panel.grid.minor=element_blank())+
   xlab("Number of Sampling Sites") + ylab("Loosely-Bound P Normalized RMSE (%)")+theme(axis.text=element_text(color="black",size=9),axis.title=element_text(size=10))+
