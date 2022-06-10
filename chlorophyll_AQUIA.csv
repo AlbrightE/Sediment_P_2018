@@ -1,0 +1,374 @@
+facilityID,siteID,name,sampleDate,year,projectCode,cas_rn,analyte,fraction,result,unit,detect,detectLimit,quantFlag,quantLimit,method,colMethod,resultType,matrix,medium,qualFlag,remark,county,huc8,type,aquifer,latitude,longitude
+6,22300010,Center Lake,06/14/00,2000,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,11.3,ug/l,TRUE,1,,,10200-H,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.412442,-95.138753
+6,22300010,Center Lake,07/13/00,2000,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,111.8,ug/l,TRUE,1,,,10200-H,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.412442,-95.138753
+6,22300010,Center Lake,08/04/00,2000,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,22.7,ug/l,TRUE,1,,,10200-H,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.412442,-95.138753
+6,22300010,Center Lake,05/16/01,2001,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,1.2,ug/l,TRUE,1,,,10200-H,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.412442,-95.138753
+6,22300010,Center Lake,06/13/01,2001,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,6.5,ug/l,TRUE,1,,,10200-H,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.412442,-95.138753
+6,22300010,Center Lake,07/18/01,2001,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,142.1,ug/l,TRUE,1,,,10200-H,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.412442,-95.138753
+6,22300010,Center Lake,05/22/02,2002,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,4.8,ug/l,TRUE,1,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.412442,-95.138753
+6,22300010,Center Lake,06/19/02,2002,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,36,ug/l,TRUE,1,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.412442,-95.138753
+6,22300010,Center Lake,07/24/02,2002,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,46.3,ug/l,TRUE,1,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.412442,-95.138753
+6,22300010,Center Lake,05/21/03,2003,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,3.1,ug/l,TRUE,1,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.412442,-95.138753
+6,22300010,Center Lake,06/18/03,2003,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,17.7,ug/l,TRUE,1,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.412442,-95.138753
+6,22300010,Center Lake,07/23/03,2003,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,16.7,ug/l,TRUE,1,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.412442,-95.138753
+6,22300010,Center Lake,05/19/04,2004,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,5.3,ug/l,TRUE,1,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.412442,-95.138753
+6,22300010,Center Lake,06/15/04,2004,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,25.8,ug/l,TRUE,1,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.412442,-95.138753
+6,22300010,Center Lake,07/20/04,2004,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,32.5,ug/l,TRUE,1,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.412442,-95.138753
+6,22300010,Center Lake,05/24/05,2005,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,11.8,ug/l,TRUE,1,,,ISU EPA 445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.412442,-95.138753
+6,22300010,Center Lake,06/21/05,2005,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,36.3,ug/l,TRUE,1,,,ISU EPA 445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.412442,-95.138753
+6,22300010,Center Lake,07/26/05,2005,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,176.2,ug/l,TRUE,1,,,ISU EPA 445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.412442,-95.138753
+6,22300010,Center Lake,06/08/06,2006,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,25.5,ug/l,TRUE,1,,,ISU EPA 445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.412442,-95.138753
+6,22300010,Center Lake,06/20/06,2006,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,130.7,ug/l,TRUE,1,,,ISU EPA 445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.412442,-95.138753
+6,22300010,Center Lake,07/26/06,2006,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,42.8,ug/l,TRUE,1,,,ISU EPA 445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.412442,-95.138753
+6,22300010,Center Lake,06/02/09,2009,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,6,ug/l,TRUE,5,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.412442,-95.138753
+6,22300010,Center Lake,07/07/09,2009,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,11,ug/l,TRUE,5,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.412442,-95.138753
+6,22300010,Center Lake,08/04/09,2009,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,5,ug/l,FALSE,5,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.412442,-95.138753
+6,22300010,Center Lake,06/02/10,2010,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,7,ug/l,TRUE,5,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.412442,-95.138753
+6,22300010,Center Lake,07/20/10,2010,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,6,ug/l,TRUE,5,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.412442,-95.138753
+6,22300010,Center Lake,09/02/10,2010,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,31,ug/l,TRUE,5,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.412442,-95.138753
+6,22300010,Center Lake,05/31/11,2011,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,12,ug/l,TRUE,5,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.412442,-95.138753
+6,22300010,Center Lake,07/18/11,2011,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,37,ug/l,TRUE,5,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.412442,-95.138753
+6,22300010,Center Lake,08/30/11,2011,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,59,ug/l,TRUE,5,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.412442,-95.138753
+6,22300010,Center Lake,05/30/12,2012,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,13,ug/l,TRUE,2,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.412442,-95.138753
+6,22300010,Center Lake,07/16/12,2012,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,44,ug/l,TRUE,2,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.412442,-95.138753
+6,22300010,Center Lake,08/31/12,2012,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,91,ug/l,TRUE,2,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.412442,-95.138753
+6,22300010,Center Lake,05/29/13,2013,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,2,ug/l,TRUE,2,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.412442,-95.138753
+6,22300010,Center Lake,07/16/13,2013,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,56,ug/l,TRUE,2,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.412442,-95.138753
+6,22300010,Center Lake,08/28/13,2013,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,46,ug/l,TRUE,2,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.412442,-95.138753
+6,22300010,Center Lake,06/03/14,2014,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,49.04,ug/l,TRUE,3.3,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.412442,-95.138753
+6,22300010,Center Lake,07/22/14,2014,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,77.84,ug/l,TRUE,3.3,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.412442,-95.138753
+6,22300010,Center Lake,09/03/14,2014,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,48.72,ug/l,TRUE,3.3,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.412442,-95.138753
+6,22300010,Center Lake,06/02/15,2015,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,12,ug/l,TRUE,6.06,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.412442,-95.138753
+6,22300010,Center Lake,07/21/15,2015,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,59,ug/l,TRUE,6.06,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.412442,-95.138753
+6,22300010,Center Lake,09/02/15,2015,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,19,ug/l,TRUE,6.06,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.412442,-95.138753
+6,22300010,Center Lake,06/01/16,2016,AMBLAKE-ISU,479-61-8,Chlorophyll a,Filterable,8,ug/l,TRUE,1,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.412442,-95.138753
+6,22300010,Center Lake,07/18/16,2016,AMBLAKE-ISU,479-61-8,Chlorophyll a,Filterable,81,ug/l,TRUE,1,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.412442,-95.138753
+6,22300010,Center Lake,08/28/16,2016,AMBLAKE-ISU,479-61-8,Chlorophyll a,Filterable,48,ug/l,TRUE,1,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.412442,-95.138753
+6,22300010,Center Lake,05/31/17,2017,AMBLAKE-ISU,479-61-8,Chlorophyll a,Filterable,21,ug/l,TRUE,3.3,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.412442,-95.138753
+6,22300010,Center Lake,07/18/17,2017,AMBLAKE-ISU,479-61-8,Chlorophyll a,Filterable,3.3,ug/l,FALSE,3.3,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.412442,-95.138753
+6,22300010,Center Lake,09/05/17,2017,AMBLAKE-ISU,479-61-8,Chlorophyll a,Filterable,11,ug/l,TRUE,3.3,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.412442,-95.138753
+6,22300010,Center Lake,07/17/18,2018,AMBLAKE-ISU,479-61-8,Chlorophyll a,Filterable,29,ug/l,TRUE,0.4,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.412442,-95.138753
+6,22300010,Center Lake,09/03/18,2018,AMBLAKE-ISU,479-61-8,Chlorophyll a,Filterable,79,ug/l,TRUE,0.4,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.412442,-95.138753
+6,22300010,Center Lake,05/28/19,2019,AMBLAKE-ISU,479-61-8,Chlorophyll a,Filterable,6.53,ug/l,TRUE,1.2,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.412442,-95.138753
+6,22300010,Center Lake,07/22/19,2019,AMBLAKE-ISU,479-61-8,Chlorophyll a,Filterable,13.72,ug/l,TRUE,1.2,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.412442,-95.138753
+6,22300010,Center Lake,09/03/19,2019,AMBLAKE-ISU,479-61-8,Chlorophyll a,Filterable,5.93,ug/l,TRUE,1.2,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.412442,-95.138753
+6,22740001,Five Island Lake,06/15/00,2000,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,19.4,ug/l,TRUE,1,,,10200-H,ISULAKE,Actual,SW,Water,,,Palo Alto,7100002,Lake,,43.141767,-94.660349
+6,22740001,Five Island Lake,08/07/00,2000,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,27.1,ug/l,TRUE,1,,,10200-H,ISULAKE,Actual,SW,Water,,,Palo Alto,7100002,Lake,,43.141767,-94.660349
+6,22740001,Five Island Lake,05/17/01,2001,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,5.7,ug/l,TRUE,1,,,10200-H,ISULAKE,Actual,SW,Water,,,Palo Alto,7100002,Lake,,43.141767,-94.660349
+6,22740001,Five Island Lake,06/14/01,2001,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,17.9,ug/l,TRUE,1,,,10200-H,ISULAKE,Actual,SW,Water,,,Palo Alto,7100002,Lake,,43.141767,-94.660349
+6,22740001,Five Island Lake,07/19/01,2001,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,28.5,ug/l,TRUE,1,,,10200-H,ISULAKE,Actual,SW,Water,,,Palo Alto,7100002,Lake,,43.141767,-94.660349
+6,22740001,Five Island Lake,05/23/02,2002,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,9.8,ug/l,TRUE,1,,,445,ISULAKE,Actual,SW,Water,,,Palo Alto,7100002,Lake,,43.141767,-94.660349
+6,22740001,Five Island Lake,06/20/02,2002,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,35.6,ug/l,TRUE,1,,,445,ISULAKE,Actual,SW,Water,,,Palo Alto,7100002,Lake,,43.141767,-94.660349
+6,22740001,Five Island Lake,07/25/02,2002,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,50.8,ug/l,TRUE,1,,,445,ISULAKE,Actual,SW,Water,,,Palo Alto,7100002,Lake,,43.141767,-94.660349
+6,22740001,Five Island Lake,05/22/03,2003,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,20.1,ug/l,TRUE,1,,,445,ISULAKE,Actual,SW,Water,,,Palo Alto,7100002,Lake,,43.141767,-94.660349
+6,22740001,Five Island Lake,06/19/03,2003,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,31.9,ug/l,TRUE,1,,,445,ISULAKE,Actual,SW,Water,,,Palo Alto,7100002,Lake,,43.141767,-94.660349
+6,22740001,Five Island Lake,07/23/03,2003,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,40.5,ug/l,TRUE,1,,,445,ISULAKE,Actual,SW,Water,,,Palo Alto,7100002,Lake,,43.141767,-94.660349
+6,22740001,Five Island Lake,05/20/04,2004,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,35.6,ug/l,TRUE,1,,,445,ISULAKE,Actual,SW,Water,,,Palo Alto,7100002,Lake,,43.141767,-94.660349
+6,22740001,Five Island Lake,06/17/04,2004,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,42.8,ug/l,TRUE,1,,,445,ISULAKE,Actual,SW,Water,,,Palo Alto,7100002,Lake,,43.141767,-94.660349
+6,22740001,Five Island Lake,07/21/04,2004,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,57.7,ug/l,TRUE,1,,,445,ISULAKE,Actual,SW,Water,,,Palo Alto,7100002,Lake,,43.141767,-94.660349
+6,22740001,Five Island Lake,05/26/05,2005,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,37.6,ug/l,TRUE,1,,,ISU EPA 445,ISULAKE,Actual,SW,Water,,,Palo Alto,7100002,Lake,,43.141767,-94.660349
+6,22740001,Five Island Lake,06/22/05,2005,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,67.3,ug/l,TRUE,1,,,ISU EPA 445,ISULAKE,Actual,SW,Water,,,Palo Alto,7100002,Lake,,43.141767,-94.660349
+6,22740001,Five Island Lake,07/25/05,2005,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,181.8,ug/l,TRUE,1,,,ISU EPA 445,ISULAKE,Actual,SW,Water,,,Palo Alto,7100002,Lake,,43.141767,-94.660349
+6,22740001,Five Island Lake,06/08/06,2006,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,36.2,ug/l,TRUE,1,,,ISU EPA 445,ISULAKE,Actual,SW,Water,,,Palo Alto,7100002,Lake,,43.141767,-94.660349
+6,22740001,Five Island Lake,06/20/06,2006,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,35.2,ug/l,TRUE,1,,,ISU EPA 445,ISULAKE,Actual,SW,Water,,,Palo Alto,7100002,Lake,,43.141767,-94.660349
+6,22740001,Five Island Lake,07/25/06,2006,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,30.6,ug/l,TRUE,1,,,ISU EPA 445,ISULAKE,Actual,SW,Water,,,Palo Alto,7100002,Lake,,43.141767,-94.660349
+6,22740001,Five Island Lake,06/04/09,2009,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,17,ug/l,TRUE,5,,,445,ISULAKE,Actual,SW,Water,,,Palo Alto,7100002,Lake,,43.141767,-94.660349
+6,22740001,Five Island Lake,07/08/09,2009,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,18,ug/l,TRUE,5,,,445,ISULAKE,Actual,SW,Water,,,Palo Alto,7100002,Lake,,43.141767,-94.660349
+6,22740001,Five Island Lake,08/05/09,2009,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,27,ug/l,TRUE,5,,,445,ISULAKE,Actual,SW,Water,,,Palo Alto,7100002,Lake,,43.141767,-94.660349
+6,22740001,Five Island Lake,06/01/10,2010,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,34,ug/l,TRUE,5,,,445,ISULAKE,Actual,SW,Water,,,Palo Alto,7100002,Lake,,43.141767,-94.660349
+6,22740001,Five Island Lake,07/19/10,2010,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,43,ug/l,TRUE,5,,,445,ISULAKE,Actual,SW,Water,,,Palo Alto,7100002,Lake,,43.141767,-94.660349
+6,22740001,Five Island Lake,09/05/10,2010,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,111,ug/l,TRUE,5,,,445,ISULAKE,Actual,SW,Water,,,Palo Alto,7100002,Lake,,43.141767,-94.660349
+6,22740001,Five Island Lake,05/31/11,2011,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,39,ug/l,TRUE,5,,,445,ISULAKE,Actual,SW,Water,,,Palo Alto,7100002,Lake,,43.141767,-94.660349
+6,22740001,Five Island Lake,07/18/11,2011,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,77,ug/l,TRUE,5,,,445,ISULAKE,Actual,SW,Water,,,Palo Alto,7100002,Lake,,43.141767,-94.660349
+6,22740001,Five Island Lake,08/29/11,2011,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,214,ug/l,TRUE,5,,,445,ISULAKE,Actual,SW,Water,,,Palo Alto,7100002,Lake,,43.141767,-94.660349
+6,22740001,Five Island Lake,05/30/12,2012,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,52,ug/l,TRUE,2,,,445,ISULAKE,Actual,SW,Water,,,Palo Alto,7100002,Lake,,43.141767,-94.660349
+6,22740001,Five Island Lake,07/17/12,2012,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,90,ug/l,TRUE,2,,,445,ISULAKE,Actual,SW,Water,,,Palo Alto,7100002,Lake,,43.141767,-94.660349
+6,22740001,Five Island Lake,08/31/12,2012,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,67,ug/l,TRUE,2,,,445,ISULAKE,Actual,SW,Water,,,Palo Alto,7100002,Lake,,43.141767,-94.660349
+6,22740001,Five Island Lake,05/28/13,2013,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,2,ug/l,FALSE,2,,,445,ISULAKE,Actual,SW,Water,,,Palo Alto,7100002,Lake,,43.141767,-94.660349
+6,22740001,Five Island Lake,07/15/13,2013,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,47,ug/l,TRUE,2,,,445,ISULAKE,Actual,SW,Water,,,Palo Alto,7100002,Lake,,43.141767,-94.660349
+6,22740001,Five Island Lake,08/27/13,2013,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,85,ug/l,TRUE,2,,,445,ISULAKE,Actual,SW,Water,,,Palo Alto,7100002,Lake,,43.141767,-94.660349
+6,22740001,Five Island Lake,06/02/14,2014,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,38.08,ug/l,TRUE,3.3,,,445,ISULAKE,Actual,SW,Water,,,Palo Alto,7100002,Lake,,43.141767,-94.660349
+6,22740001,Five Island Lake,07/21/14,2014,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,44.56,ug/l,TRUE,3.3,,,445,ISULAKE,Actual,SW,Water,,,Palo Alto,7100002,Lake,,43.141767,-94.660349
+6,22740001,Five Island Lake,09/01/14,2014,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,53.04,ug/l,TRUE,3.3,,,445,ISULAKE,Actual,SW,Water,,,Palo Alto,7100002,Lake,,43.141767,-94.660349
+6,22740001,Five Island Lake,06/01/15,2015,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,12,ug/l,TRUE,6.06,,,445,ISULAKE,Actual,SW,Water,,,Palo Alto,7100002,Lake,,43.141767,-94.660349
+6,22740001,Five Island Lake,07/20/15,2015,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,49,ug/l,TRUE,6.06,,,445,ISULAKE,Actual,SW,Water,,,Palo Alto,7100002,Lake,,43.141767,-94.660349
+6,22740001,Five Island Lake,08/30/15,2015,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,54,ug/l,TRUE,6.06,,,445,ISULAKE,Actual,SW,Water,,,Palo Alto,7100002,Lake,,43.141767,-94.660349
+6,22740001,Five Island Lake,05/31/16,2016,AMBLAKE-ISU,479-61-8,Chlorophyll a,Filterable,10,ug/l,TRUE,1,,,445,ISULAKE,Actual,SW,Water,,,Palo Alto,7100002,Lake,,43.141767,-94.660349
+6,22740001,Five Island Lake,07/18/16,2016,AMBLAKE-ISU,479-61-8,Chlorophyll a,Filterable,46,ug/l,TRUE,1,,,445,ISULAKE,Actual,SW,Water,,,Palo Alto,7100002,Lake,,43.141767,-94.660349
+6,22740001,Five Island Lake,08/30/16,2016,AMBLAKE-ISU,479-61-8,Chlorophyll a,Filterable,48,ug/l,TRUE,1,,,445,ISULAKE,Actual,SW,Water,,,Palo Alto,7100002,Lake,,43.141767,-94.660349
+6,22740001,Five Island Lake,05/31/17,2017,AMBLAKE-ISU,479-61-8,Chlorophyll a,Filterable,70,ug/l,TRUE,3.3,,,445,ISULAKE,Actual,SW,Water,,,Palo Alto,7100002,Lake,,43.141767,-94.660349
+6,22740001,Five Island Lake,07/18/17,2017,AMBLAKE-ISU,479-61-8,Chlorophyll a,Filterable,3.3,ug/l,FALSE,3.3,,,445,ISULAKE,Actual,SW,Water,,,Palo Alto,7100002,Lake,,43.141767,-94.660349
+6,22740001,Five Island Lake,09/07/17,2017,AMBLAKE-ISU,479-61-8,Chlorophyll a,Filterable,29,ug/l,TRUE,3.3,,,445,ISULAKE,Actual,SW,Water,,,Palo Alto,7100002,Lake,,43.141767,-94.660349
+6,22740001,Five Island Lake,05/31/18,2018,AMBLAKE-ISU,479-61-8,Chlorophyll a,Filterable,13,ug/l,TRUE,0.4,,,445,ISULAKE,Actual,SW,Water,,,Palo Alto,7100002,Lake,,43.141767,-94.660349
+6,22740001,Five Island Lake,07/17/18,2018,AMBLAKE-ISU,479-61-8,Chlorophyll a,Filterable,58,ug/l,TRUE,0.4,,,445,ISULAKE,Actual,SW,Water,,,Palo Alto,7100002,Lake,,43.141767,-94.660349
+6,22740001,Five Island Lake,09/05/18,2018,AMBLAKE-ISU,479-61-8,Chlorophyll a,Filterable,91,ug/l,TRUE,0.4,,,445,ISULAKE,Actual,SW,Water,,,Palo Alto,7100002,Lake,,43.141767,-94.660349
+6,22740001,Five Island Lake,05/30/19,2019,AMBLAKE-ISU,479-61-8,Chlorophyll a,Filterable,51.18,ug/l,TRUE,1.2,,,445,ISULAKE,Actual,SW,Water,,,Palo Alto,7100002,Lake,,43.141767,-94.660349
+6,22740001,Five Island Lake,07/23/19,2019,AMBLAKE-ISU,479-61-8,Chlorophyll a,Filterable,18.13,ug/l,TRUE,1.2,,,445,ISULAKE,Actual,SW,Water,,,Palo Alto,7100002,Lake,,43.141767,-94.660349
+6,22740001,Five Island Lake,09/04/19,2019,AMBLAKE-ISU,479-61-8,Chlorophyll a,Filterable,6.38,ug/l,TRUE,1.2,,,445,ISULAKE,Actual,SW,Water,,,Palo Alto,7100002,Lake,,43.141767,-94.660349
+6,22130001,North Twin Lake (maximum water depth),06/15/00,2000,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,113.6,ug/l,TRUE,1,,,10200-H,ISULAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.476873,-94.63802
+6,22130001,North Twin Lake (maximum water depth),07/14/00,2000,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,111.3,ug/l,TRUE,1,,,10200-H,ISULAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.476873,-94.63802
+6,22130001,North Twin Lake (maximum water depth),08/07/00,2000,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,80.6,ug/l,TRUE,1,,,10200-H,ISULAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.476873,-94.63802
+6,22130001,North Twin Lake (maximum water depth),05/17/01,2001,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,172.5,ug/l,TRUE,1,,,10200-H,ISULAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.476873,-94.63802
+6,22130001,North Twin Lake (maximum water depth),06/14/01,2001,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,112.6,ug/l,TRUE,1,,,10200-H,ISULAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.476873,-94.63802
+6,22130001,North Twin Lake (maximum water depth),07/19/01,2001,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,22.1,ug/l,TRUE,1,,,10200-H,ISULAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.476873,-94.63802
+6,22130001,North Twin Lake (maximum water depth),05/24/02,2002,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,3.3,ug/l,TRUE,1,,,445,ISULAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.476873,-94.63802
+6,22130001,North Twin Lake (maximum water depth),06/20/02,2002,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,29.2,ug/l,TRUE,1,,,445,ISULAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.476873,-94.63802
+6,22130001,North Twin Lake (maximum water depth),07/25/02,2002,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,52.2,ug/l,TRUE,1,,,445,ISULAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.476873,-94.63802
+6,22130001,North Twin Lake (maximum water depth),05/22/03,2003,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,10.5,ug/l,TRUE,1,,,445,ISULAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.476873,-94.63802
+6,22130001,North Twin Lake (maximum water depth),06/19/03,2003,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,5.9,ug/l,TRUE,1,,,445,ISULAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.476873,-94.63802
+6,22130001,North Twin Lake (maximum water depth),07/24/03,2003,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,18.1,ug/l,TRUE,1,,,445,ISULAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.476873,-94.63802
+6,22130001,North Twin Lake (maximum water depth),05/20/04,2004,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,22.7,ug/l,TRUE,1,,,445,ISULAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.476873,-94.63802
+6,22130001,North Twin Lake (maximum water depth),06/17/04,2004,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,27.7,ug/l,TRUE,1,,,445,ISULAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.476873,-94.63802
+6,22130001,North Twin Lake (maximum water depth),07/22/04,2004,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,39.8,ug/l,TRUE,1,,,445,ISULAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.476873,-94.63802
+6,22130001,North Twin Lake (maximum water depth),05/26/05,2005,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,3.1,ug/l,TRUE,1,,,ISU EPA 445,ISULAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.476873,-94.63802
+6,22130001,North Twin Lake (maximum water depth),06/23/05,2005,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,36.1,ug/l,TRUE,1,,,ISU EPA 445,ISULAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.476873,-94.63802
+6,22130001,North Twin Lake (maximum water depth),07/25/05,2005,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,101.8,ug/l,TRUE,1,,,ISU EPA 445,ISULAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.476873,-94.63802
+6,22130001,North Twin Lake (maximum water depth),06/08/06,2006,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,36.2,ug/l,TRUE,1,,,ISU EPA 445,ISULAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.476873,-94.63802
+6,22130001,North Twin Lake (maximum water depth),06/22/06,2006,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,51.4,ug/l,TRUE,1,,,ISU EPA 445,ISULAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.476873,-94.63802
+6,22130001,North Twin Lake (maximum water depth),07/27/06,2006,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,36.3,ug/l,TRUE,1,,,ISU EPA 445,ISULAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.476873,-94.63802
+6,22130001,North Twin Lake (maximum water depth),06/04/09,2009,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,13,ug/l,TRUE,5,,,445,ISULAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.476873,-94.63802
+6,22130001,North Twin Lake (maximum water depth),07/28/09,2009,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,40,ug/l,TRUE,5,,,445,ISULAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.476873,-94.63802
+6,22130001,North Twin Lake (maximum water depth),08/03/09,2009,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,22,ug/l,TRUE,5,,,445,ISULAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.476873,-94.63802
+6,22130001,North Twin Lake (maximum water depth),05/17/10,2010,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,14,ug/l,TRUE,5,,,445,ISULAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.476873,-94.63802
+6,22130001,North Twin Lake (maximum water depth),07/06/10,2010,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,40,ug/l,TRUE,5,,,445,ISULAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.476873,-94.63802
+6,22130001,North Twin Lake (maximum water depth),08/16/10,2010,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,45,ug/l,TRUE,5,,,445,ISULAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.476873,-94.63802
+6,22130001,North Twin Lake (maximum water depth),05/16/11,2011,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,31,ug/l,TRUE,5,,,445,ISULAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.476873,-94.63802
+6,22130001,North Twin Lake (maximum water depth),06/27/11,2011,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,75,ug/l,TRUE,5,,,445,ISULAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.476873,-94.63802
+6,22130001,North Twin Lake (maximum water depth),08/15/11,2011,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,56,ug/l,TRUE,5,,,445,ISULAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.476873,-94.63802
+6,22130001,North Twin Lake (maximum water depth),05/14/12,2012,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,39,ug/l,TRUE,2,,,445,ISULAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.476873,-94.63802
+6,22130001,North Twin Lake (maximum water depth),06/25/12,2012,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,37,ug/l,TRUE,2,,,445,ISULAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.476873,-94.63802
+6,22130001,North Twin Lake (maximum water depth),08/14/12,2012,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,109,ug/l,TRUE,2,,,445,ISULAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.476873,-94.63802
+6,22130001,North Twin Lake (maximum water depth),05/14/13,2013,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,46,ug/l,TRUE,2,,,445,ISULAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.476873,-94.63802
+6,22130001,North Twin Lake (maximum water depth),06/26/13,2013,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,40,ug/l,TRUE,2,,,445,ISULAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.476873,-94.63802
+6,22130001,North Twin Lake (maximum water depth),08/12/13,2013,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,68,ug/l,TRUE,2,,,445,ISULAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.476873,-94.63802
+6,22130001,North Twin Lake (maximum water depth),05/19/14,2014,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,70.04,ug/l,TRUE,3.3,,,445,ISULAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.476873,-94.63802
+6,22130001,North Twin Lake (maximum water depth),07/09/14,2014,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,114.66,ug/l,TRUE,3.3,,,445,ISULAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.476873,-94.63802
+6,22130001,North Twin Lake (maximum water depth),08/20/14,2014,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,74.32,ug/l,TRUE,3.3,,,445,ISULAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.476873,-94.63802
+6,22130001,North Twin Lake (maximum water depth),05/27/15,2015,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,27,ug/l,TRUE,6.06,,,445,ISULAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.476873,-94.63802
+6,22130001,North Twin Lake (maximum water depth),07/06/15,2015,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,45,ug/l,TRUE,6.06,,,445,ISULAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.476873,-94.63802
+6,22130001,North Twin Lake (maximum water depth),08/18/15,2015,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,121,ug/l,TRUE,6.06,,,445,ISULAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.476873,-94.63802
+6,22130001,North Twin Lake (maximum water depth),05/16/16,2016,AMBLAKE-ISU,479-61-8,Chlorophyll a,Filterable,41,ug/l,TRUE,1,,,445,ISULAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.476873,-94.63802
+6,22130001,North Twin Lake (maximum water depth),06/27/16,2016,AMBLAKE-ISU,479-61-8,Chlorophyll a,Filterable,84,ug/l,TRUE,1,,,445,ISULAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.476873,-94.63802
+6,22130001,North Twin Lake (maximum water depth),08/15/16,2016,AMBLAKE-ISU,479-61-8,Chlorophyll a,Filterable,75,ug/l,TRUE,1,,,445,ISULAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.476873,-94.63802
+6,22130001,North Twin Lake (maximum water depth),06/20/17,2017,AMBLAKE-ISU,479-61-8,Chlorophyll a,Filterable,35,ug/l,TRUE,3.3,,,445,ISULAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.476873,-94.63802
+6,22130001,North Twin Lake (maximum water depth),08/08/17,2017,AMBLAKE-ISU,479-61-8,Chlorophyll a,Filterable,3.3,ug/l,FALSE,3.3,,,445,ISULAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.476873,-94.63802
+6,22130001,North Twin Lake (maximum water depth),09/19/17,2017,AMBLAKE-ISU,479-61-8,Chlorophyll a,Filterable,30,ug/l,TRUE,3.3,,,445,ISULAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.476873,-94.63802
+6,22130001,North Twin Lake (maximum water depth),05/14/18,2018,AMBLAKE-ISU,479-61-8,Chlorophyll a,Filterable,115,ug/l,TRUE,0.4,,,445,ISULAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.476873,-94.63802
+6,22130001,North Twin Lake (maximum water depth),06/26/18,2018,AMBLAKE-ISU,479-61-8,Chlorophyll a,Filterable,38,ug/l,TRUE,0.4,,,445,ISULAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.476873,-94.63802
+6,22130001,North Twin Lake (maximum water depth),08/14/18,2018,AMBLAKE-ISU,479-61-8,Chlorophyll a,Filterable,113,ug/l,TRUE,0.4,,,445,ISULAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.476873,-94.63802
+6,22130001,North Twin Lake (maximum water depth),05/23/19,2019,AMBLAKE-ISU,479-61-8,Chlorophyll a,Filterable,38.22,ug/l,TRUE,1.2,,,445,ISULAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.476873,-94.63802
+6,22130001,North Twin Lake (maximum water depth),07/09/19,2019,AMBLAKE-ISU,479-61-8,Chlorophyll a,Filterable,9.44,ug/l,TRUE,1.2,,,445,ISULAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.476873,-94.63802
+6,22130001,North Twin Lake (maximum water depth),08/20/19,2019,AMBLAKE-ISU,479-61-8,Chlorophyll a,Filterable,1.2,ug/l,FALSE,1.2,,,445,ISULAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.476873,-94.63802
+6,22300007,Silver Lake Max Depth,06/13/00,2000,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,19.5,ug/l,TRUE,1,,,10200-H,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.436994,-95.337068
+6,22300007,Silver Lake Max Depth,07/12/00,2000,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,65.3,ug/l,TRUE,1,,,10200-H,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.436994,-95.337068
+6,22300007,Silver Lake Max Depth,08/03/00,2000,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,24.5,ug/l,TRUE,1,,,10200-H,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.436994,-95.337068
+6,22300007,Silver Lake Max Depth,06/12/01,2001,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,6.8,ug/l,TRUE,1,,,10200-H,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.436994,-95.337068
+6,22300007,Silver Lake Max Depth,07/17/01,2001,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,13.8,ug/l,TRUE,1,,,10200-H,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.436994,-95.337068
+6,22300007,Silver Lake Max Depth,05/21/02,2002,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,3.6,ug/l,TRUE,1,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.436994,-95.337068
+6,22300007,Silver Lake Max Depth,06/18/02,2002,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,5.6,ug/l,TRUE,1,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.436994,-95.337068
+6,22300007,Silver Lake Max Depth,07/23/02,2002,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,18.9,ug/l,TRUE,1,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.436994,-95.337068
+6,22300007,Silver Lake Max Depth,05/20/03,2003,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,5.7,ug/l,TRUE,1,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.436994,-95.337068
+6,22300007,Silver Lake Max Depth,06/17/03,2003,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,2.6,ug/l,TRUE,1,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.436994,-95.337068
+6,22300007,Silver Lake Max Depth,07/22/03,2003,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,26.7,ug/l,TRUE,1,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.436994,-95.337068
+6,22300007,Silver Lake Max Depth,05/18/04,2004,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,1.3,ug/l,TRUE,1,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.436994,-95.337068
+6,22300007,Silver Lake Max Depth,06/15/04,2004,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,9.6,ug/l,TRUE,1,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.436994,-95.337068
+6,22300007,Silver Lake Max Depth,07/20/04,2004,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,327.8,ug/l,TRUE,1,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.436994,-95.337068
+6,22300007,Silver Lake Max Depth,05/24/05,2005,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,2.7,ug/l,TRUE,1,,,ISU EPA 445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.436994,-95.337068
+6,22300007,Silver Lake Max Depth,06/21/05,2005,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,3.3,ug/l,TRUE,1,,,ISU EPA 445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.436994,-95.337068
+6,22300007,Silver Lake Max Depth,07/26/05,2005,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,267.7,ug/l,TRUE,1,,,ISU EPA 445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.436994,-95.337068
+6,22300007,Silver Lake Max Depth,05/23/06,2006,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,8.1,ug/l,TRUE,1,,,ISU EPA 445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.436994,-95.337068
+6,22300007,Silver Lake Max Depth,06/21/06,2006,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,4.6,ug/l,TRUE,1,,,ISU EPA 445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.436994,-95.337068
+6,22300007,Silver Lake Max Depth,07/26/06,2006,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,3.7,ug/l,TRUE,1,,,ISU EPA 445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.436994,-95.337068
+6,22300007,Silver Lake Max Depth,06/02/09,2009,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,5,ug/l,FALSE,5,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.436994,-95.337068
+6,22300007,Silver Lake Max Depth,07/07/09,2009,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,6,ug/l,TRUE,5,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.436994,-95.337068
+6,22300007,Silver Lake Max Depth,08/04/09,2009,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,23,ug/l,TRUE,5,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.436994,-95.337068
+6,22300007,Silver Lake Max Depth,06/02/10,2010,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,15,ug/l,TRUE,5,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.436994,-95.337068
+6,22300007,Silver Lake Max Depth,07/20/10,2010,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,37,ug/l,TRUE,5,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.436994,-95.337068
+6,22300007,Silver Lake Max Depth,09/02/10,2010,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,25,ug/l,TRUE,5,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.436994,-95.337068
+6,22300007,Silver Lake Max Depth,05/31/11,2011,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,33,ug/l,TRUE,5,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.436994,-95.337068
+6,22300007,Silver Lake Max Depth,07/18/11,2011,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,10,ug/l,TRUE,5,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.436994,-95.337068
+6,22300007,Silver Lake Max Depth,08/30/11,2011,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,5,ug/l,FALSE,5,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.436994,-95.337068
+6,22300007,Silver Lake Max Depth,05/30/12,2012,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,24,ug/l,TRUE,2,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.436994,-95.337068
+6,22300007,Silver Lake Max Depth,07/16/12,2012,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,56,ug/l,TRUE,2,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.436994,-95.337068
+6,22300007,Silver Lake Max Depth,08/31/12,2012,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,2,ug/l,FALSE,2,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.436994,-95.337068
+6,22300007,Silver Lake Max Depth,05/29/13,2013,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,6,ug/l,TRUE,2,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.436994,-95.337068
+6,22300007,Silver Lake Max Depth,07/15/13,2013,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,22,ug/l,TRUE,2,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.436994,-95.337068
+6,22300007,Silver Lake Max Depth,08/26/13,2013,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,53,ug/l,TRUE,2,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.436994,-95.337068
+6,22300007,Silver Lake Max Depth,06/03/14,2014,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,3.3,ug/l,FALSE,3.3,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.436994,-95.337068
+6,22300007,Silver Lake Max Depth,07/22/14,2014,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,20.72,ug/l,TRUE,3.3,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.436994,-95.337068
+6,22300007,Silver Lake Max Depth,09/03/14,2014,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,31.6,ug/l,TRUE,3.3,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.436994,-95.337068
+6,22300007,Silver Lake Max Depth,06/02/15,2015,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,6.06,ug/l,FALSE,6.06,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.436994,-95.337068
+6,22300007,Silver Lake Max Depth,07/21/15,2015,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,75,ug/l,TRUE,6.06,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.436994,-95.337068
+6,22300007,Silver Lake Max Depth,08/30/15,2015,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,16,ug/l,TRUE,6.06,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.436994,-95.337068
+6,22300007,Silver Lake Max Depth,06/01/16,2016,AMBLAKE-ISU,479-61-8,Chlorophyll a,Filterable,2,ug/l,TRUE,1,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.436994,-95.337068
+6,22300007,Silver Lake Max Depth,07/20/16,2016,AMBLAKE-ISU,479-61-8,Chlorophyll a,Filterable,16,ug/l,TRUE,1,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.436994,-95.337068
+6,22300007,Silver Lake Max Depth,08/28/16,2016,AMBLAKE-ISU,479-61-8,Chlorophyll a,Filterable,20,ug/l,TRUE,1,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.436994,-95.337068
+6,22300007,Silver Lake Max Depth,05/30/17,2017,AMBLAKE-ISU,479-61-8,Chlorophyll a,Filterable,3.3,ug/l,FALSE,3.3,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.436994,-95.337068
+6,22300007,Silver Lake Max Depth,07/17/17,2017,AMBLAKE-ISU,479-61-8,Chlorophyll a,Filterable,10,ug/l,TRUE,3.3,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.436994,-95.337068
+6,22300007,Silver Lake Max Depth,09/05/17,2017,AMBLAKE-ISU,479-61-8,Chlorophyll a,Filterable,160,ug/l,TRUE,3.3,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.436994,-95.337068
+6,22300007,Silver Lake Max Depth,05/31/18,2018,AMBLAKE-ISU,479-61-8,Chlorophyll a,Filterable,3,ug/l,TRUE,0.4,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.436994,-95.337068
+6,22300007,Silver Lake Max Depth,07/16/18,2018,AMBLAKE-ISU,479-61-8,Chlorophyll a,Filterable,12,ug/l,TRUE,0.4,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.436994,-95.337068
+6,22300007,Silver Lake Max Depth,09/03/18,2018,AMBLAKE-ISU,479-61-8,Chlorophyll a,Filterable,8,ug/l,TRUE,0.4,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.436994,-95.337068
+6,22300007,Silver Lake Max Depth,05/28/19,2019,AMBLAKE-ISU,479-61-8,Chlorophyll a,Filterable,1.2,ug/l,FALSE,1.2,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.436994,-95.337068
+6,22300007,Silver Lake Max Depth,07/22/19,2019,AMBLAKE-ISU,479-61-8,Chlorophyll a,Filterable,11.12,ug/l,TRUE,1.2,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.436994,-95.337068
+6,22300007,Silver Lake Max Depth,09/04/19,2019,AMBLAKE-ISU,479-61-8,Chlorophyll a,Filterable,17.25,ug/l,TRUE,1.2,,,445,ISULAKE,Actual,SW,Water,,,Dickinson,10230003,Lake,,43.436994,-95.337068
+6,22110001,Storm Lake Max Depth,06/15/00,2000,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,13.7,ug/l,TRUE,1,,,10200-H,ISULAKE,Actual,SW,Water,,,Buena Vista,7100006,Lake,,42.621568,-95.204186
+6,22110001,Storm Lake Max Depth,07/14/00,2000,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,14.2,ug/l,TRUE,1,,,10200-H,ISULAKE,Actual,SW,Water,,,Buena Vista,7100006,Lake,,42.621568,-95.204186
+6,22110001,Storm Lake Max Depth,06/14/01,2001,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,24.3,ug/l,TRUE,1,,,10200-H,ISULAKE,Actual,SW,Water,,,Buena Vista,7100006,Lake,,42.621568,-95.204186
+6,22110001,Storm Lake Max Depth,07/19/01,2001,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,18.7,ug/l,TRUE,1,,,10200-H,ISULAKE,Actual,SW,Water,,,Buena Vista,7100006,Lake,,42.621568,-95.204186
+6,22110001,Storm Lake Max Depth,05/23/02,2002,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,22.1,ug/l,TRUE,1,,,445,ISULAKE,Actual,SW,Water,,,Buena Vista,7100006,Lake,,42.621568,-95.204186
+6,22110001,Storm Lake Max Depth,06/20/02,2002,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,23.5,ug/l,TRUE,1,,,445,ISULAKE,Actual,SW,Water,,,Buena Vista,7100006,Lake,,42.621568,-95.204186
+6,22110001,Storm Lake Max Depth,07/25/02,2002,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,12.4,ug/l,TRUE,1,,,445,ISULAKE,Actual,SW,Water,,,Buena Vista,7100006,Lake,,42.621568,-95.204186
+6,22110001,Storm Lake Max Depth,05/22/03,2003,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,8.7,ug/l,TRUE,1,,,445,ISULAKE,Actual,SW,Water,,,Buena Vista,7100006,Lake,,42.621568,-95.204186
+6,22110001,Storm Lake Max Depth,06/19/03,2003,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,27.7,ug/l,TRUE,1,,,445,ISULAKE,Actual,SW,Water,,,Buena Vista,7100006,Lake,,42.621568,-95.204186
+6,22110001,Storm Lake Max Depth,07/24/03,2003,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,32.8,ug/l,TRUE,1,,,445,ISULAKE,Actual,SW,Water,,,Buena Vista,7100006,Lake,,42.621568,-95.204186
+6,22110001,Storm Lake Max Depth,05/20/04,2004,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,9.1,ug/l,TRUE,1,,,445,ISULAKE,Actual,SW,Water,,,Buena Vista,7100006,Lake,,42.621568,-95.204186
+6,22110001,Storm Lake Max Depth,06/17/04,2004,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,19.3,ug/l,TRUE,1,,,445,ISULAKE,Actual,SW,Water,,,Buena Vista,7100006,Lake,,42.621568,-95.204186
+6,22110001,Storm Lake Max Depth,07/22/04,2004,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,28.6,ug/l,TRUE,1,,,445,ISULAKE,Actual,SW,Water,,,Buena Vista,7100006,Lake,,42.621568,-95.204186
+6,22110001,Storm Lake Max Depth,05/26/05,2005,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,7,ug/l,TRUE,1,,,ISU EPA 445,ISULAKE,Actual,SW,Water,,,Buena Vista,7100006,Lake,,42.621568,-95.204186
+6,22110001,Storm Lake Max Depth,06/22/05,2005,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,17.7,ug/l,TRUE,1,,,ISU EPA 445,ISULAKE,Actual,SW,Water,,,Buena Vista,7100006,Lake,,42.621568,-95.204186
+6,22110001,Storm Lake Max Depth,07/25/05,2005,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,75.3,ug/l,TRUE,1,,,ISU EPA 445,ISULAKE,Actual,SW,Water,,,Buena Vista,7100006,Lake,,42.621568,-95.204186
+6,22110001,Storm Lake Max Depth,06/08/06,2006,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,10.9,ug/l,TRUE,1,,,ISU EPA 445,ISULAKE,Actual,SW,Water,,,Buena Vista,7100006,Lake,,42.621568,-95.204186
+6,22110001,Storm Lake Max Depth,06/19/06,2006,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,33.8,ug/l,TRUE,1,,,ISU EPA 445,ISULAKE,Actual,SW,Water,,,Buena Vista,7100006,Lake,,42.621568,-95.204186
+6,22110001,Storm Lake Max Depth,07/25/06,2006,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,19.3,ug/l,TRUE,1,,,ISU EPA 445,ISULAKE,Actual,SW,Water,,,Buena Vista,7100006,Lake,,42.621568,-95.204186
+6,22110001,Storm Lake Max Depth,06/04/09,2009,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,5,ug/l,FALSE,5,,,445,ISULAKE,Actual,SW,Water,,,Buena Vista,7100006,Lake,,42.621568,-95.204186
+6,22110001,Storm Lake Max Depth,07/08/09,2009,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,10,ug/l,TRUE,5,,,445,ISULAKE,Actual,SW,Water,,,Buena Vista,7100006,Lake,,42.621568,-95.204186
+6,22110001,Storm Lake Max Depth,08/05/09,2009,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,5,ug/l,FALSE,5,,,445,ISULAKE,Actual,SW,Water,,,Buena Vista,7100006,Lake,,42.621568,-95.204186
+6,22110001,Storm Lake Max Depth,05/17/10,2010,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,5,ug/l,FALSE,5,,,445,ISULAKE,Actual,SW,Water,,,Buena Vista,7100006,Lake,,42.621568,-95.204186
+6,22110001,Storm Lake Max Depth,07/06/10,2010,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,82,ug/l,TRUE,5,,,445,ISULAKE,Actual,SW,Water,,,Buena Vista,7100006,Lake,,42.621568,-95.204186
+6,22110001,Storm Lake Max Depth,08/16/10,2010,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,9,ug/l,TRUE,5,,,445,ISULAKE,Actual,SW,Water,,,Buena Vista,7100006,Lake,,42.621568,-95.204186
+6,22110001,Storm Lake Max Depth,05/16/11,2011,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,5,ug/l,FALSE,5,,,445,ISULAKE,Actual,SW,Water,,,Buena Vista,7100006,Lake,,42.621568,-95.204186
+6,22110001,Storm Lake Max Depth,06/27/11,2011,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,24,ug/l,TRUE,5,,,445,ISULAKE,Actual,SW,Water,,,Buena Vista,7100006,Lake,,42.621568,-95.204186
+6,22110001,Storm Lake Max Depth,08/15/11,2011,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,7,ug/l,TRUE,5,,,445,ISULAKE,Actual,SW,Water,,,Buena Vista,7100006,Lake,,42.621568,-95.204186
+6,22110001,Storm Lake Max Depth,05/14/12,2012,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,5,ug/l,TRUE,2,,,445,ISULAKE,Actual,SW,Water,,,Buena Vista,7100006,Lake,,42.621568,-95.204186
+6,22110001,Storm Lake Max Depth,06/25/12,2012,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,9,ug/l,TRUE,2,,,445,ISULAKE,Actual,SW,Water,,,Buena Vista,7100006,Lake,,42.621568,-95.204186
+6,22110001,Storm Lake Max Depth,08/15/12,2012,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,13,ug/l,TRUE,2,,,445,ISULAKE,Actual,SW,Water,,,Buena Vista,7100006,Lake,,42.621568,-95.204186
+6,22110001,Storm Lake Max Depth,05/14/13,2013,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,8,ug/l,TRUE,2,,,445,ISULAKE,Actual,SW,Water,,,Buena Vista,7100006,Lake,,42.621568,-95.204186
+6,22110001,Storm Lake Max Depth,06/26/13,2013,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,45,ug/l,TRUE,2,,,445,ISULAKE,Actual,SW,Water,,,Buena Vista,7100006,Lake,,42.621568,-95.204186
+6,22110001,Storm Lake Max Depth,08/12/13,2013,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,14,ug/l,TRUE,2,,,445,ISULAKE,Actual,SW,Water,,,Buena Vista,7100006,Lake,,42.621568,-95.204186
+6,22110001,Storm Lake Max Depth,05/19/14,2014,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,3.62,ug/l,TRUE,3.3,,,445,ISULAKE,Actual,SW,Water,,,Buena Vista,7100006,Lake,,42.621568,-95.204186
+6,22110001,Storm Lake Max Depth,07/07/14,2014,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,9.04,ug/l,TRUE,3.3,,,445,ISULAKE,Actual,SW,Water,,,Buena Vista,7100006,Lake,,42.621568,-95.204186
+6,22110001,Storm Lake Max Depth,08/18/14,2014,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,11.53,ug/l,TRUE,3.3,,,445,ISULAKE,Actual,SW,Water,,,Buena Vista,7100006,Lake,,42.621568,-95.204186
+6,22110001,Storm Lake Max Depth,05/18/15,2015,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,16,ug/l,TRUE,6.06,,,445,ISULAKE,Actual,SW,Water,,,Buena Vista,7100006,Lake,,42.621568,-95.204186
+6,22110001,Storm Lake Max Depth,07/06/15,2015,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,6.06,ug/l,FALSE,6.06,,,445,ISULAKE,Actual,SW,Water,,,Buena Vista,7100006,Lake,,42.621568,-95.204186
+6,22110001,Storm Lake Max Depth,08/18/15,2015,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,7,ug/l,TRUE,6.06,,,445,ISULAKE,Actual,SW,Water,,,Buena Vista,7100006,Lake,,42.621568,-95.204186
+6,22110001,Storm Lake Max Depth,05/16/16,2016,AMBLAKE-ISU,479-61-8,Chlorophyll a,Filterable,9,ug/l,TRUE,1,,,445,ISULAKE,Actual,SW,Water,,,Buena Vista,7100006,Lake,,42.621568,-95.204186
+6,22110001,Storm Lake Max Depth,06/27/16,2016,AMBLAKE-ISU,479-61-8,Chlorophyll a,Filterable,13,ug/l,TRUE,1,,,445,ISULAKE,Actual,SW,Water,,,Buena Vista,7100006,Lake,,42.621568,-95.204186
+6,22110001,Storm Lake Max Depth,08/15/16,2016,AMBLAKE-ISU,479-61-8,Chlorophyll a,Filterable,19,ug/l,TRUE,1,,,445,ISULAKE,Actual,SW,Water,,,Buena Vista,7100006,Lake,,42.621568,-95.204186
+6,22110001,Storm Lake Max Depth,06/20/17,2017,AMBLAKE-ISU,479-61-8,Chlorophyll a,Filterable,3.3,ug/l,FALSE,3.3,,,445,ISULAKE,Actual,SW,Water,,,Buena Vista,7100006,Lake,,42.621568,-95.204186
+6,22110001,Storm Lake Max Depth,08/08/17,2017,AMBLAKE-ISU,479-61-8,Chlorophyll a,Filterable,32,ug/l,TRUE,3.3,,,445,ISULAKE,Actual,SW,Water,,,Buena Vista,7100006,Lake,,42.621568,-95.204186
+6,22110001,Storm Lake Max Depth,09/19/17,2017,AMBLAKE-ISU,479-61-8,Chlorophyll a,Filterable,3.3,ug/l,FALSE,3.3,,,445,ISULAKE,Actual,SW,Water,,,Buena Vista,7100006,Lake,,42.621568,-95.204186
+6,22110001,Storm Lake Max Depth,05/14/18,2018,AMBLAKE-ISU,479-61-8,Chlorophyll a,Filterable,9,ug/l,TRUE,0.4,,,445,ISULAKE,Actual,SW,Water,,,Buena Vista,7100006,Lake,,42.621568,-95.204186
+6,22110001,Storm Lake Max Depth,06/25/18,2018,AMBLAKE-ISU,479-61-8,Chlorophyll a,Filterable,4,ug/l,TRUE,0.4,,,445,ISULAKE,Actual,SW,Water,,,Buena Vista,7100006,Lake,,42.621568,-95.204186
+6,22110001,Storm Lake Max Depth,08/13/18,2018,AMBLAKE-ISU,479-61-8,Chlorophyll a,Filterable,5,ug/l,TRUE,0.4,,,445,ISULAKE,Actual,SW,Water,,,Buena Vista,7100006,Lake,,42.621568,-95.204186
+6,22110001,Storm Lake Max Depth,05/20/19,2019,AMBLAKE-ISU,479-61-8,Chlorophyll a,Filterable,1.2,ug/l,FALSE,1.2,,,445,ISULAKE,Actual,SW,Water,,,Buena Vista,7100006,Lake,,42.621568,-95.204186
+6,22110001,Storm Lake Max Depth,07/08/19,2019,AMBLAKE-ISU,479-61-8,Chlorophyll a,Filterable,5.76,ug/l,TRUE,1.2,,,445,ISULAKE,Actual,SW,Water,,,Buena Vista,7100006,Lake,,42.621568,-95.204186
+6,22110001,Storm Lake Max Depth,08/19/19,2019,AMBLAKE-ISU,479-61-8,Chlorophyll a,Filterable,2.3,ug/l,TRUE,1.2,,,445,ISULAKE,Actual,SW,Water,,,Buena Vista,7100006,Lake,,42.621568,-95.204186
+6,22140001,Swan Lake Max Depth,06/22/00,2000,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,543.8,ug/l,TRUE,1,,,10200-H,ISULAKE,Actual,SW,Water,,,Carroll,7100007,Lake,,42.037657,-94.84054
+6,22140001,Swan Lake Max Depth,07/19/00,2000,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,240.8,ug/l,TRUE,1,,,10200-H,ISULAKE,Actual,SW,Water,,,Carroll,7100007,Lake,,42.037657,-94.84054
+6,22140001,Swan Lake Max Depth,08/09/00,2000,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,35.4,ug/l,TRUE,1,,,10200-H,ISULAKE,Actual,SW,Water,,,Carroll,7100007,Lake,,42.037657,-94.84054
+6,22140001,Swan Lake Max Depth,05/24/01,2001,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,177.2,ug/l,TRUE,1,,,10200-H,ISULAKE,Actual,SW,Water,,,Carroll,7100007,Lake,,42.037657,-94.84054
+6,22140001,Swan Lake Max Depth,07/25/01,2001,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,241.7,ug/l,TRUE,1,,,10200-H,ISULAKE,Actual,SW,Water,,,Carroll,7100007,Lake,,42.037657,-94.84054
+6,22140001,Swan Lake Max Depth,05/30/02,2002,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,75.6,ug/l,TRUE,1,,,445,ISULAKE,Actual,SW,Water,,,Carroll,7100007,Lake,,42.037657,-94.84054
+6,22140001,Swan Lake Max Depth,06/26/02,2002,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,72.2,ug/l,TRUE,1,,,445,ISULAKE,Actual,SW,Water,,,Carroll,7100007,Lake,,42.037657,-94.84054
+6,22140001,Swan Lake Max Depth,07/31/02,2002,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,96.6,ug/l,TRUE,1,,,445,ISULAKE,Actual,SW,Water,,,Carroll,7100007,Lake,,42.037657,-94.84054
+6,22140001,Swan Lake Max Depth,05/30/03,2003,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,22.1,ug/l,TRUE,1,,,445,ISULAKE,Actual,SW,Water,,,Carroll,7100007,Lake,,42.037657,-94.84054
+6,22140001,Swan Lake Max Depth,06/26/03,2003,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,24.9,ug/l,TRUE,1,,,445,ISULAKE,Actual,SW,Water,,,Carroll,7100007,Lake,,42.037657,-94.84054
+6,22140001,Swan Lake Max Depth,07/31/03,2003,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,29.7,ug/l,TRUE,1,,,445,ISULAKE,Actual,SW,Water,,,Carroll,7100007,Lake,,42.037657,-94.84054
+6,22140001,Swan Lake Max Depth,05/27/04,2004,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,73.7,ug/l,TRUE,1,,,445,ISULAKE,Actual,SW,Water,,,Carroll,7100007,Lake,,42.037657,-94.84054
+6,22140001,Swan Lake Max Depth,06/24/04,2004,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,213.7,ug/l,TRUE,1,,,445,ISULAKE,Actual,SW,Water,,,Carroll,7100007,Lake,,42.037657,-94.84054
+6,22140001,Swan Lake Max Depth,07/28/04,2004,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,81,ug/l,TRUE,1,,,445,ISULAKE,Actual,SW,Water,,,Carroll,7100007,Lake,,42.037657,-94.84054
+6,22140001,Swan Lake Max Depth,06/03/05,2005,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,25.9,ug/l,TRUE,1,,,ISU EPA 445,ISULAKE,Actual,SW,Water,,,Carroll,7100007,Lake,,42.037657,-94.84054
+6,22140001,Swan Lake Max Depth,06/30/05,2005,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,38.3,ug/l,TRUE,1,,,ISU EPA 445,ISULAKE,Actual,SW,Water,,,Carroll,7100007,Lake,,42.037657,-94.84054
+6,22140001,Swan Lake Max Depth,07/27/05,2005,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,40.4,ug/l,TRUE,1,,,ISU EPA 445,ISULAKE,Actual,SW,Water,,,Carroll,7100007,Lake,,42.037657,-94.84054
+6,22140001,Swan Lake Max Depth,06/01/06,2006,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,23.3,ug/l,TRUE,1,,,ISU EPA 445,ISULAKE,Actual,SW,Water,,,Carroll,7100007,Lake,,42.037657,-94.84054
+6,22140001,Swan Lake Max Depth,06/28/06,2006,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,75.1,ug/l,TRUE,1,,,ISU EPA 445,ISULAKE,Actual,SW,Water,,,Carroll,7100007,Lake,,42.037657,-94.84054
+6,22140001,Swan Lake Max Depth,08/02/06,2006,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,88.9,ug/l,TRUE,1,,,ISU EPA 445,ISULAKE,Actual,SW,Water,,,Carroll,7100007,Lake,,42.037657,-94.84054
+6,22140001,Swan Lake Max Depth,06/11/09,2009,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,57,ug/l,TRUE,5,,,445,ISULAKE,Actual,SW,Water,,,Carroll,7100007,Lake,,42.037657,-94.84054
+6,22140001,Swan Lake Max Depth,07/15/09,2009,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,105,ug/l,TRUE,5,,,445,ISULAKE,Actual,SW,Water,,,Carroll,7100007,Lake,,42.037657,-94.84054
+6,22140001,Swan Lake Max Depth,08/11/09,2009,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,78,ug/l,TRUE,5,,,445,ISULAKE,Actual,SW,Water,,,Carroll,7100007,Lake,,42.037657,-94.84054
+6,22140001,Swan Lake Max Depth,05/17/10,2010,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,20,ug/l,TRUE,5,,,445,ISULAKE,Actual,SW,Water,,,Carroll,7100007,Lake,,42.037657,-94.84054
+6,22140001,Swan Lake Max Depth,07/06/10,2010,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,64,ug/l,TRUE,5,,,445,ISULAKE,Actual,SW,Water,,,Carroll,7100007,Lake,,42.037657,-94.84054
+6,22140001,Swan Lake Max Depth,08/16/10,2010,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,118,ug/l,TRUE,5,,,445,ISULAKE,Actual,SW,Water,,,Carroll,7100007,Lake,,42.037657,-94.84054
+6,22140001,Swan Lake Max Depth,05/16/11,2011,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,47,ug/l,TRUE,5,,,445,ISULAKE,Actual,SW,Water,,,Carroll,7100007,Lake,,42.037657,-94.84054
+6,22140001,Swan Lake Max Depth,06/28/11,2011,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,196,ug/l,TRUE,5,,,445,ISULAKE,Actual,SW,Water,,,Carroll,7100007,Lake,,42.037657,-94.84054
+6,22140001,Swan Lake Max Depth,08/15/11,2011,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,51,ug/l,TRUE,5,,,445,ISULAKE,Actual,SW,Water,,,Carroll,7100007,Lake,,42.037657,-94.84054
+6,22140001,Swan Lake Max Depth,05/16/12,2012,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,46,ug/l,TRUE,2,,,445,ISULAKE,Actual,SW,Water,,,Carroll,7100007,Lake,,42.037657,-94.84054
+6,22140001,Swan Lake Max Depth,06/25/12,2012,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,37,ug/l,TRUE,2,,,445,ISULAKE,Actual,SW,Water,,,Carroll,7100007,Lake,,42.037657,-94.84054
+6,22140001,Swan Lake Max Depth,08/14/12,2012,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,76,ug/l,TRUE,2,,,445,ISULAKE,Actual,SW,Water,,,Carroll,7100007,Lake,,42.037657,-94.84054
+6,22140001,Swan Lake Max Depth,05/14/13,2013,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,41,ug/l,TRUE,2,,,445,ISULAKE,Actual,SW,Water,,,Carroll,7100007,Lake,,42.037657,-94.84054
+6,22140001,Swan Lake Max Depth,06/24/13,2013,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,24,ug/l,TRUE,2,,,445,ISULAKE,Actual,SW,Water,,,Carroll,7100007,Lake,,42.037657,-94.84054
+6,22140001,Swan Lake Max Depth,08/12/13,2013,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,68,ug/l,TRUE,2,,,445,ISULAKE,Actual,SW,Water,,,Carroll,7100007,Lake,,42.037657,-94.84054
+6,22140001,Swan Lake Max Depth,05/19/14,2014,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,14.88,ug/l,TRUE,3.3,,,445,ISULAKE,Actual,SW,Water,,,Carroll,7100007,Lake,,42.037657,-94.84054
+6,22140001,Swan Lake Max Depth,07/07/14,2014,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,60,ug/l,TRUE,3.3,,,445,ISULAKE,Actual,SW,Water,,,Carroll,7100007,Lake,,42.037657,-94.84054
+6,22140001,Swan Lake Max Depth,08/18/14,2014,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,27.36,ug/l,TRUE,3.3,,,445,ISULAKE,Actual,SW,Water,,,Carroll,7100007,Lake,,42.037657,-94.84054
+6,22140001,Swan Lake Max Depth,05/18/15,2015,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,24,ug/l,TRUE,6.06,,,445,ISULAKE,Actual,SW,Water,,,Carroll,7100007,Lake,,42.037657,-94.84054
+6,22140001,Swan Lake Max Depth,07/06/15,2015,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,44,ug/l,TRUE,6.06,,,445,ISULAKE,Actual,SW,Water,,,Carroll,7100007,Lake,,42.037657,-94.84054
+6,22140001,Swan Lake Max Depth,08/17/15,2015,AMBLAKE-ISU,479-61-8,Chlorophyll a,NonFilt,250,ug/l,TRUE,6.06,,,445,ISULAKE,Actual,SW,Water,,,Carroll,7100007,Lake,,42.037657,-94.84054
+6,22140001,Swan Lake Max Depth,05/16/16,2016,AMBLAKE-ISU,479-61-8,Chlorophyll a,Filterable,33,ug/l,TRUE,1,,,445,ISULAKE,Actual,SW,Water,,,Carroll,7100007,Lake,,42.037657,-94.84054
+6,22140001,Swan Lake Max Depth,06/27/16,2016,AMBLAKE-ISU,479-61-8,Chlorophyll a,Filterable,9,ug/l,TRUE,1,,,445,ISULAKE,Actual,SW,Water,,,Carroll,7100007,Lake,,42.037657,-94.84054
+6,22140001,Swan Lake Max Depth,08/15/16,2016,AMBLAKE-ISU,479-61-8,Chlorophyll a,Filterable,43,ug/l,TRUE,1,,,445,ISULAKE,Actual,SW,Water,,,Carroll,7100007,Lake,,42.037657,-94.84054
+6,22140001,Swan Lake Max Depth,06/20/17,2017,AMBLAKE-ISU,479-61-8,Chlorophyll a,Filterable,3.3,ug/l,FALSE,3.3,,,445,ISULAKE,Actual,SW,Water,,,Carroll,7100007,Lake,,42.037657,-94.84054
+6,22140001,Swan Lake Max Depth,08/08/17,2017,AMBLAKE-ISU,479-61-8,Chlorophyll a,Filterable,4,ug/l,TRUE,3.3,,,445,ISULAKE,Actual,SW,Water,,,Carroll,7100007,Lake,,42.037657,-94.84054
+6,22140001,Swan Lake Max Depth,09/18/17,2017,AMBLAKE-ISU,479-61-8,Chlorophyll a,Filterable,19,ug/l,TRUE,3.3,,,445,ISULAKE,Actual,SW,Water,,,Carroll,7100007,Lake,,42.037657,-94.84054
+6,22140001,Swan Lake Max Depth,05/15/18,2018,AMBLAKE-ISU,479-61-8,Chlorophyll a,Filterable,33,ug/l,TRUE,0.4,,,445,ISULAKE,Actual,SW,Water,,,Carroll,7100007,Lake,,42.037657,-94.84054
+6,22140001,Swan Lake Max Depth,06/26/18,2018,AMBLAKE-ISU,479-61-8,Chlorophyll a,Filterable,16,ug/l,TRUE,0.4,,,445,ISULAKE,Actual,SW,Water,,,Carroll,7100007,Lake,,42.037657,-94.84054
+6,22140001,Swan Lake Max Depth,08/24/18,2018,AMBLAKE-ISU,479-61-8,Chlorophyll a,Filterable,68,ug/l,TRUE,0.4,,,445,ISULAKE,Actual,SW,Water,,,Carroll,7100007,Lake,,42.037657,-94.84054
+6,22140001,Swan Lake Max Depth,05/22/19,2019,AMBLAKE-ISU,479-61-8,Chlorophyll a,Filterable,18.8,ug/l,TRUE,1.2,,,445,ISULAKE,Actual,SW,Water,,,Carroll,7100007,Lake,,42.037657,-94.84054
+6,22140001,Swan Lake Max Depth,07/09/19,2019,AMBLAKE-ISU,479-61-8,Chlorophyll a,Filterable,4.32,ug/l,TRUE,1.2,,,445,ISULAKE,Actual,SW,Water,,,Carroll,7100007,Lake,,42.037657,-94.84054
+6,22140001,Swan Lake Max Depth,08/20/19,2019,AMBLAKE-ISU,479-61-8,Chlorophyll a,Filterable,1.2,ug/l,FALSE,1.2,,,445,ISULAKE,Actual,SW,Water,,,Carroll,7100007,Lake,,42.037657,-94.84054
+6,22130004,South Twin Lake,05/15/18,2018,SHALLAKE,479-61-8,Chlorophyll a,Filterable,64,ug/l,TRUE,0.4,,,445,ISULAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.46044663,-94.65373106
+6,22130004,South Twin Lake,06/12/18,2018,SHALLAKE,479-61-8,Chlorophyll a,Filterable,26,ug/l,TRUE,0.4,,,445,ISULAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.46044663,-94.65373106
+6,22130004,South Twin Lake,07/10/18,2018,SHALLAKE,479-61-8,Chlorophyll a,Filterable,20.6,ug/l,TRUE,0.4,,,445,ISULAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.46044663,-94.65373106
+6,22130004,South Twin Lake,08/07/18,2018,SHALLAKE,479-61-8,Chlorophyll a,Filterable,40.8,ug/l,TRUE,0.4,,,445,ISULAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.46044663,-94.65373106
+6,22130004,South Twin Lake,09/10/18,2018,SHALLAKE,479-61-8,Chlorophyll a,Filterable,29.6,ug/l,TRUE,0.4,,,445,ISULAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.46044663,-94.65373106
+6,22130004,South Twin Lake,05/26/06,2006,SHALLAKE,CLR-A-FREE,"Chlorophyll a, free of pheophytin",NonFilt,100,ug/l,TRUE,1,,,445,DNRLAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.46044663,-94.65373106
+6,22130004,South Twin Lake,06/14/06,2006,SHALLAKE,CLR-A-FREE,"Chlorophyll a, free of pheophytin",NonFilt,110,ug/l,TRUE,1,,,445,DNRLAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.46044663,-94.65373106
+6,22130004,South Twin Lake,06/29/06,2006,SHALLAKE,CLR-A-FREE,"Chlorophyll a, free of pheophytin",NonFilt,80,ug/l,TRUE,1,,,445,DNRLAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.46044663,-94.65373106
+6,22130004,South Twin Lake,07/12/06,2006,SHALLAKE,CLR-A-FREE,"Chlorophyll a, free of pheophytin",NonFilt,120,ug/l,TRUE,1,,,445,DNRLAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.46044663,-94.65373106
+6,22130004,South Twin Lake,07/26/06,2006,SHALLAKE,CLR-A-FREE,"Chlorophyll a, free of pheophytin",NonFilt,130,ug/l,TRUE,1,,,445,DNRLAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.46044663,-94.65373106
+6,22130004,South Twin Lake,08/10/06,2006,SHALLAKE,CLR-A-FREE,"Chlorophyll a, free of pheophytin",NonFilt,140,ug/l,TRUE,1,,,445,DNRLAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.46044663,-94.65373106
+6,22130004,South Twin Lake,08/21/06,2006,SHALLAKE,CLR-A-FREE,"Chlorophyll a, free of pheophytin",NonFilt,110,ug/l,TRUE,1,,,445,DNRLAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.46044663,-94.65373106
+6,22130004,South Twin Lake,09/11/06,2006,SHALLAKE,CLR-A-FREE,"Chlorophyll a, free of pheophytin",NonFilt,89,ug/l,TRUE,1,,,445,DNRLAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.46044663,-94.65373106
+6,22130004,South Twin Lake,09/26/06,2006,SHALLAKE,CLR-A-FREE,"Chlorophyll a, free of pheophytin",NonFilt,82,ug/l,TRUE,1,,,445,DNRLAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.46044663,-94.65373106
+6,22130004,South Twin Lake,05/17/07,2007,SHALLAKE,CLR-A-FREE,"Chlorophyll a, free of pheophytin",NonFilt,100,ug/l,TRUE,1,,,445,DNRLAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.46044663,-94.65373106
+6,22130004,South Twin Lake,05/30/07,2007,SHALLAKE,CLR-A-FREE,"Chlorophyll a, free of pheophytin",NonFilt,73,ug/l,TRUE,1,,,445,DNRLAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.46044663,-94.65373106
+6,22130004,South Twin Lake,06/14/07,2007,SHALLAKE,CLR-A-FREE,"Chlorophyll a, free of pheophytin",NonFilt,68,ug/l,TRUE,1,,,445,DNRLAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.46044663,-94.65373106
+6,22130004,South Twin Lake,06/28/07,2007,SHALLAKE,CLR-A-FREE,"Chlorophyll a, free of pheophytin",NonFilt,68,ug/l,TRUE,1,,,445,DNRLAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.46044663,-94.65373106
+6,22130004,South Twin Lake,07/09/07,2007,SHALLAKE,CLR-A-FREE,"Chlorophyll a, free of pheophytin",NonFilt,68,ug/l,TRUE,1,,,445,DNRLAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.46044663,-94.65373106
+6,22130004,South Twin Lake,07/23/07,2007,SHALLAKE,CLR-A-FREE,"Chlorophyll a, free of pheophytin",NonFilt,120,ug/l,TRUE,1,,,445,DNRLAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.46044663,-94.65373106
+6,22130004,South Twin Lake,08/13/07,2007,SHALLAKE,CLR-A-FREE,"Chlorophyll a, free of pheophytin",NonFilt,100,ug/l,TRUE,1,,,445,DNRLAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.46044663,-94.65373106
+6,22130004,South Twin Lake,08/29/07,2007,SHALLAKE,CLR-A-FREE,"Chlorophyll a, free of pheophytin",NonFilt,59,ug/l,TRUE,1,,,445,DNRLAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.46044663,-94.65373106
+6,22130004,South Twin Lake,09/19/07,2007,SHALLAKE,CLR-A-FREE,"Chlorophyll a, free of pheophytin",NonFilt,110,ug/l,TRUE,1,,,445,DNRLAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.46044663,-94.65373106
+6,22130004,South Twin Lake,10/03/07,2007,SHALLAKE,CLR-A-FREE,"Chlorophyll a, free of pheophytin",NonFilt,83,ug/l,TRUE,1,,,445,DNRLAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.46044663,-94.65373106
+6,22130004,South Twin Lake,06/02/08,2008,SHALLAKE,CLR-A-FREE,"Chlorophyll a, free of pheophytin",NonFilt,60,ug/l,TRUE,1,,,445,DNRLAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.46044663,-94.65373106
+6,22130004,South Twin Lake,06/25/08,2008,SHALLAKE,CLR-A-FREE,"Chlorophyll a, free of pheophytin",NonFilt,50,ug/l,TRUE,1,,,445,DNRLAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.46044663,-94.65373106
+6,22130004,South Twin Lake,08/06/08,2008,SHALLAKE,CLR-A-FREE,"Chlorophyll a, free of pheophytin",NonFilt,57,ug/l,TRUE,1,,,445,DNRLAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.46044663,-94.65373106
+6,22130004,South Twin Lake,08/28/08,2008,SHALLAKE,CLR-A-FREE,"Chlorophyll a, free of pheophytin",NonFilt,59,ug/l,TRUE,1,,,445,DNRLAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.46044663,-94.65373106
+6,22130004,South Twin Lake,09/25/08,2008,SHALLAKE,CLR-A-FREE,"Chlorophyll a, free of pheophytin",NonFilt,47,ug/l,TRUE,1,,,445,DNRLAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.46044663,-94.65373106
+6,22130004,South Twin Lake,10/16/08,2008,SHALLAKE,CLR-A-FREE,"Chlorophyll a, free of pheophytin",NonFilt,52,ug/l,TRUE,1,,,445,DNRLAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.46044663,-94.65373106
+6,22130004,South Twin Lake,06/23/09,2009,SHALLAKE,CLR-A-FREE,"Chlorophyll a, free of pheophytin",NonFilt,140,ug/l,TRUE,1,,,445,DNRLAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.46044663,-94.65373106
+6,22130004,South Twin Lake,07/14/09,2009,SHALLAKE,CLR-A-FREE,"Chlorophyll a, free of pheophytin",NonFilt,110,ug/l,TRUE,1,,,445,DNRLAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.46044663,-94.65373106
+6,22130004,South Twin Lake,08/13/09,2009,SHALLAKE,CLR-A-FREE,"Chlorophyll a, free of pheophytin",NonFilt,140,ug/l,TRUE,1,,,445,DNRLAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.46044663,-94.65373106
+6,22130004,South Twin Lake,09/22/09,2009,SHALLAKE,CLR-A-FREE,"Chlorophyll a, free of pheophytin",NonFilt,120,ug/l,TRUE,1,,,445,DNRLAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.46044663,-94.65373106
+6,22130004,South Twin Lake,10/19/09,2009,SHALLAKE,CLR-A-FREE,"Chlorophyll a, free of pheophytin",NonFilt,70,ug/l,TRUE,1,,,445,DNRLAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.46044663,-94.65373106
+6,22130004,South Twin Lake,05/20/10,2010,SHALLAKE,CLR-A-FREE,"Chlorophyll a, free of pheophytin",NonFilt,12,ug/l,TRUE,1,,,445,DNRLAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.46044663,-94.65373106
+6,22130004,South Twin Lake,06/16/10,2010,SHALLAKE,CLR-A-FREE,"Chlorophyll a, free of pheophytin",NonFilt,62,ug/l,TRUE,1,,,445,DNRLAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.46044663,-94.65373106
+6,22130004,South Twin Lake,07/14/10,2010,SHALLAKE,CLR-A-FREE,"Chlorophyll a, free of pheophytin",NonFilt,110,ug/l,TRUE,1,,,445,DNRLAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.46044663,-94.65373106
+6,22130004,South Twin Lake,08/17/10,2010,SHALLAKE,CLR-A-FREE,"Chlorophyll a, free of pheophytin",NonFilt,120,ug/l,TRUE,1,,,445,DNRLAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.46044663,-94.65373106
+6,22130004,South Twin Lake,09/08/10,2010,SHALLAKE,CLR-A-FREE,"Chlorophyll a, free of pheophytin",NonFilt,62,ug/l,TRUE,1,,,445,DNRLAKE,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.46044663,-94.65373106
+6,22130004,South Twin Lake,05/14/13,2013,SHALLAKE,CLR-A-FREE,"Chlorophyll a, free of pheophytin",NonFilt,190,ug/l,TRUE,1,,,445,UHL001,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.46044663,-94.65373106
+6,22130004,South Twin Lake,06/12/13,2013,SHALLAKE,CLR-A-FREE,"Chlorophyll a, free of pheophytin",NonFilt,32,ug/l,TRUE,1,,,445,UHL001,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.46044663,-94.65373106
+6,22130004,South Twin Lake,07/10/13,2013,SHALLAKE,CLR-A-FREE,"Chlorophyll a, free of pheophytin",NonFilt,260,ug/l,TRUE,1,,,445,UHL001,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.46044663,-94.65373106
+6,22130004,South Twin Lake,08/14/13,2013,SHALLAKE,CLR-A-FREE,"Chlorophyll a, free of pheophytin",NonFilt,77,ug/l,TRUE,1,,,445,UHL001,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.46044663,-94.65373106
+6,22130004,South Twin Lake,09/17/13,2013,SHALLAKE,CLR-A-FREE,"Chlorophyll a, free of pheophytin",NonFilt,280,ug/l,TRUE,1,,,445,UHL001,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.46044663,-94.65373106
+6,22130004,South Twin Lake,05/16/17,2017,SHALLAKE,CLR-A-FREE,"Chlorophyll a, free of pheophytin",NonFilt,88.1739,ug/l,TRUE,1,,,445,UHL001,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.46044663,-94.65373106
+6,22130004,South Twin Lake,06/05/17,2017,SHALLAKE,CLR-A-FREE,"Chlorophyll a, free of pheophytin",NonFilt,10.97474,ug/l,TRUE,1,,,445,UHL001,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.46044663,-94.65373106
+6,22130004,South Twin Lake,07/11/17,2017,SHALLAKE,CLR-A-FREE,"Chlorophyll a, free of pheophytin",NonFilt,31.705332,ug/l,TRUE,1,,,445,UHL001,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.46044663,-94.65373106
+6,22130004,South Twin Lake,08/25/17,2017,SHALLAKE,CLR-A-FREE,"Chlorophyll a, free of pheophytin",NonFilt,4,ug/l,TRUE,1,,,445,UHL001,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.46044663,-94.65373106
+6,22130004,South Twin Lake,09/20/17,2017,SHALLAKE,CLR-A-FREE,"Chlorophyll a, free of pheophytin",NonFilt,25,ug/l,TRUE,1,,,445,UHL001,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.46044663,-94.65373106
+6,22130004,South Twin Lake,05/07/19,2019,SHALLAKE,CLR-A-FREE,"Chlorophyll a, free of pheophytin",NonFilt,100,ug/l,TRUE,1,,,445,UHL001,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.46044663,-94.65373106
+6,22130004,South Twin Lake,06/11/19,2019,SHALLAKE,CLR-A-FREE,"Chlorophyll a, free of pheophytin",NonFilt,98,ug/l,TRUE,1,,,445,UHL001,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.46044663,-94.65373106
+6,22130004,South Twin Lake,07/09/19,2019,SHALLAKE,CLR-A-FREE,"Chlorophyll a, free of pheophytin",NonFilt,100,ug/l,TRUE,1,,,445,UHL001,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.46044663,-94.65373106
+6,22130004,South Twin Lake,08/14/19,2019,SHALLAKE,CLR-A-FREE,"Chlorophyll a, free of pheophytin",NonFilt,160,ug/l,TRUE,1,,,445,UHL001,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.46044663,-94.65373106
+6,22130004,South Twin Lake,09/10/19,2019,SHALLAKE,CLR-A-FREE,"Chlorophyll a, free of pheophytin",NonFilt,76,ug/l,TRUE,1,,,445,UHL001,Actual,SW,Water,,,Calhoun,7100006,Lake,,42.46044663,-94.65373106
