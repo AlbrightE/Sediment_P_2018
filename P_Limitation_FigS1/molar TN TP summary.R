@@ -1,6 +1,8 @@
 # Analysis of the molar ratio of TN:TP
 # 7 Iowa Lakes for Albright et al. 
 
+### NOTE: csv is named "Study Lakes 2000-2020.csv" instead of "Iowa Lakes Dataset 2000-2020.csv" Sorry.
+
 if (!require(tidyverse)) install.packages('tidyverse')
 library(tidyverse)
 if (!require(RColorBrewer)) install.packages('RColorBrewer')
