@@ -1,5 +1,5 @@
 # Project: Variation in Sediment Phosphorus (P) Manuscript - JGR Biogeosciences RESUBMISSION (analysis updates)
-# Last Modified 3 December 2021
+# Last Modified 10 June 2022
 # Contributers: Ellen Albright, Dr. Grace Wilkinson
 # Description: The following script provides all analyses and figures for our manuscript "High inter- and intra-lake variation in sediment phosphorus pools in shallow lakes"
 
@@ -8,6 +8,7 @@
 # The code can be run with the following datasets (NOTE: for each dataset, there is a README file with detailed meta-data)
   # "Cores_ALLDATA_2018.csv" - sediment P chemistry and physical characteristics for 7 shallow lakes in NW Iowa, USA. 
   # "Chla_MobileP_Regression.csv" - summarizes mobile (redox-sensitive, loosely-bound, organic) sediment P fractions and long term chlorophyll a concentrations for each lake
+  # "Chla_MobileP_Regression_NEW.csv" - summarizes mobile P in 0-6cm slice, and long-term Chla through 2018
   # "PCA_envfit.csv" - contains lake and watershed variables as potential interpretations of PCA biplot of profundal sediment P speciation
   # "Swan_macrophytes_2018.csv" - macrophyte survey across Swan Lake (need "studylakes2018.shp" if you want to map the lake outline)
   # "Swan_SedP_2018.csv" - summary of sediment P results and sampling site coordinates for mapping
@@ -54,10 +55,10 @@ display.brewer.all()
 #          4a. mixed model regression effects of water depth at the coring location on total sediment P and loosely-bound sediment P by lake (Figure 3)
 #          4b. calculations of coefficient of variation for total and loosely-bound P (Table 2)
 # PART 5: Intra-lake variation in sediment P - Macrophyte beds and sediment P Pools
-#          5a. Within-lake variation in sediment loosely-bound and total P in Swan Lake (Figure 4)
+#          5a. Within-lake variation in sediment loosely-bound and total P in Swan Lake (Figure S2)
 # PART 6: Intra-lake variation in sediment P - Rarefaction analysis to determine minimum sampling frequency needed
 #          6a. Rarefaction curves for total and loosely-bound P for each study lake (Figure 5A-B)
-# PART 7: Supporting information (Figure S1)
+# PART 7: Intra-lake variation in sediment P and basin volume development (Figure 4)
 #---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### PART 1 - DESCRIPTIONS OF INTER-LAKE VARIATION IN PROFUNDAL SEDIMENT P (TABLE 2) ----------------------------------------------------------------------------------------------------
@@ -226,15 +227,52 @@ dev.off()
 #   But because they're really close, I think you could report the untransformed data and say that you ran it on the clr-transformed data and the results didn't change.
 
 
-### PART 3 - FURTHER ANALYSIS OF WATER QUALITY IMPLICATIONS OF INTER-LAKE VARIATION IN PROFUNDAL SEDIMENT P (FIGURE 3) ----------------------------------------------------------------
-### PART 3a. simple linear regression of long-term chlorophyll a concentrations as a function of mobile sediment P species (Figure 3) -------------------------------------------------
-# Read in auxiliary dataset that summarizes mobile sediment P species and long-term chla concentrations
-chla<-read.csv("Chla_MobileP_Regression.csv")
+### PART 3 - FURTHER ANALYSIS OF WATER QUALITY IMPLICATIONS OF INTER-LAKE VARIATION IN PROFUNDAL SEDIMENT P (FIGURE 2) ----------------------------------------------------------------
+### PART 3a. simple linear regression of long-term chlorophyll a concentrations as a function of mobile sediment P species (Figure 2) -------------------------------------------------
+
+###      Step 1: re-clean the ALM Chlorophyll data to exclude 2019
+chla<-read.csv("chlorophyll_AQUIA.csv")
+
+chla<-chla %>% 
+  select(name, sampleDate, year,result,unit) %>% 
+  filter(year!="2019")
+
+# calculate mean, sd, and n for each lake
+tapply(chla$result, chla$name, mean)
+tapply(chla$result, chla$name, sd)
+length(unique(chla$result[chla$name=="Center Lake"]))
+length(unique(chla$result[chla$name=="Five Island Lake"]))
+length(unique(chla$result[chla$name=="North Twin Lake (maximum water depth)"]))
+length(unique(chla$result[chla$name=="Silver Lake Max Depth"]))
+length(unique(chla$result[chla$name=="South Twin Lake"]))
+length(unique(chla$result[chla$name=="Storm Lake Max Depth"]))
+length(unique(chla$result[chla$name=="Swan Lake Max Depth"]))
+
+###      Step 2: re-calculate mobile P fractions for the 0-6cm slice only!
+core<-read.csv("Cores_ALLDATA_2018.csv")
+core<-core %>% 
+  filter(SiteType=="Deep") %>% 
+  select(LakeName,SampleID,TopDepth,LooseP,IronP,AlP,LabileOP,CalciumP,TP_ug) %>% 
+  drop_na(TP_ug) %>% 
+  filter(TopDepth<=4)
+
+core$mobile<-core$TP_ug-(core$CalciumP+core$AlP)
+core$mobilePER<-(core$mobile/core$TP_ug)*100
+
+tapply(core$mobilePER, core$LakeName, mean)
+tapply(core$mobilePER, core$LakeName, sd)
+
+tapply(core$mobile, core$LakeName, mean)
+tapply(core$mobile, core$LakeName, sd)
+
+
+###      Step 3: Read in auxiliary dataset that summarizes mobile sediment P species and long-term chla concentrations
+chla<-read.csv("Chla_MobileP_Regression_NEW.csv")
 View(chla)
 
 # Define variables
-x<-chla$mobilePercent*100
-SDx<-(chla$mobileSD/sqrt(chla$mobileN))*100
+x<-chla$mobilePercent4
+SDx<-(chla$mobilePERSD4/sqrt(chla$mobileN4))
 xlabel<-"% Mobile P of Total Sediment P"
 
 y<-chla$chlorophyll
@@ -257,8 +295,8 @@ Chlamodel<-ggplot(data=chla,aes(x=x,y=y)) +
   theme(axis.text=element_text(color="black",size=10),axis.title=element_text(size=11))
 ggsave("Figure2.png",Chlamodel,width=3,height=3,units="in",dpi=300)
 
-### PART 4 - INTRA-LAKE VARIATION IN SEDIMENT P - HORIZONTAL VARIATION ACROSS THE LAKEBED (FIGURE 4, TABLE 2) -------------------------------------------------------------------------
-### PART 4a. Mixed model regression effects of water depth at the coring location on total sediment P and loosely-bound sediment P by lake (Figure 4) ---------------------------------
+### PART 4 - INTRA-LAKE VARIATION IN SEDIMENT P - HORIZONTAL VARIATION ACROSS THE LAKEBED (FIGURE 3, TABLE 2) -------------------------------------------------------------------------
+### PART 4a. Mixed model regression effects of water depth at the coring location on total sediment P and loosely-bound sediment P by lake (Figure 3) ---------------------------------
 
 # This analysis uses the "down" dataframe originally read in for Part 1A.
 # We will need to format this dataframe to select all of the "littoral" site cores and the average value of all the sediment slices of the deep site core for each lake
@@ -387,8 +425,8 @@ sdloose<-tapply(mix$LooseP,mix$LakeName,sd)
 CVloose<-(sdloose/meanloose)*100
 CVloose
 
-### PART 5 - INTRA-LAKE VARIATION IN SEDIMENT P - MACROPHYTE BEDS AND SEDIMENT P POOLS  (Figure 5) --------------------------------------------------------------------
-### PART 5a. Within-lake variation in sediment loosely-bound and total P in Swan Lake (Figure 5)---------------------------------------------------------------------------------------
+### PART 5 - INTRA-LAKE VARIATION IN SEDIMENT P - MACROPHYTE BEDS AND SEDIMENT P POOLS  (Figure S2) --------------------------------------------------------------------
+### PART 5a. Within-lake variation in sediment loosely-bound and total P in Swan Lake (Figure S2)---------------------------------------------------------------------------------------
 
 # Read in shapefiles for lake outline (make sure sf package is loaded)
 lakes<-st_read("studylakes2018.shp") #old shape file from MC project- has outlines of all ALM lakes
@@ -411,7 +449,7 @@ cores<-st_as_sf(SWcore,coords=c("LONG","LAT"),crs=4893,agr="constant")
 names(sites)
 names(cores)
 
-# Plot data together (Figure 5)
+# Plot data together (Figure S1)
 SW_plot<-ggplot() + 
   geom_sf(data = swan_shp, size = 1, color = "black", fill = "white") + #f2f8f9 #e0eff1
   geom_sf(data=sites,aes(size=TOTAL),col="#b8e186")+scale_size(range=c(5,11))+
@@ -675,8 +713,28 @@ rare_plots2<-grid.arrange(tp_rare,loose_rare,nrow=1)
 ggsave("Figure5.png",rare_plots2,width=5.5,height=3,units="in",dpi=300)
 
 
+ggplot(data=rare_sample, aes(x=n, y=RMSE_norm_TP,group=lake,color=lake))+
+  geom_point(size=0)+scale_color_manual(values=c(CEcol,FIcol,NTcol,SIcol,STcol,SOcol,SWcol))+ 
+  geom_line(size=1.2)+
+  theme_linedraw()+theme(panel.grid.major=element_blank(),panel.grid.minor=element_blank())+
+  xlab("Number of Sampling Sites") + ylab("Total P Normalized RMSE (%)")+theme(axis.text=element_text(color="black",size=9),axis.title=element_text(size=10))+
+  annotate("text", x=2.2,y=24,label="A",size=6)+ xlim(2,9) + ylim(0,15) +
+  theme(legend.title=element_blank(), legend.position = c(0.7,0.7),legend.text = element_text(size=9),legend.key.size=unit(0.5,"cm"),legend.background=element_blank())
+ggsave("presentation_rare.png", width=4, height=4, units="in", dpi=300)
 
-### PART 7 - SUPPORTING INFORMATION (FIGURE S1)----------------------------------------------------------------------------------------------------------------------------------------
+
+ggplot(data=rare_sample, aes(x=n, y=RMSE_norm_TP,group=lake,color=lake))+
+  geom_point(size=0)+scale_color_manual(values=c("grey40","#ce1256","grey40","grey40","#ce1256","#ce1256","#ce1256"))+ 
+  geom_line(size=1.2)+
+  theme_linedraw()+theme(panel.grid.major=element_blank(),panel.grid.minor=element_blank())+
+  xlab("Number of Sampling Sites") + ylab("Total P Normalized RMSE (%)")+theme(axis.text=element_text(color="black",size=9),axis.title=element_text(size=10))+
+  annotate("text", x=2.2,y=24,label="A",size=6)+ xlim(2,9) + ylim(0,15) +
+  theme(legend.title=element_blank(), legend.position = "none",legend.text = element_text(size=9),legend.key.size=unit(0.5,"cm"),legend.background=element_blank())
+ggsave("presentation_rare2.png", width=4, height=4, units="in", dpi=300)
+
+
+
+### PART 7 - VOLUME DEVELOPMENT (FIGURE 4)----------------------------------------------------------------------------------------------------------------------------------------
 ### PART 7a. Visualize the relationship between the coefficient of variation in loosely-bound P and lake basin volume development (Dv)
 
 # Read in data to calculate Dv
